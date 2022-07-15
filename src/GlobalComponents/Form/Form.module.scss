@@ -1,0 +1,124 @@
+.feedback {
+  font-size: 1rem;
+  max-width: 1150px;
+  padding: 2em;
+  background: rgba(255, 255, 255, 0.1);
+  box-shadow: 0 5px 5px rgba(0, 0, 0.2);
+  border-radius: 2em;
+  display: flex;
+  flex-direction: column;
+  &__form {
+    display: flex;
+    flex-grow: 1;
+    flex-direction: column;
+    justify-content: space-around;
+    & > a {
+      width: 33%;
+      font-size: 2em;
+      background: none;
+      box-shadow: none;
+      display: inline-block;
+      pointer-events: none;
+    }
+    &_active {
+      & > a {
+        background: rgba(255, 255, 255, 0.1);
+        box-shadow: 0 5px 5px rgb(0 0 0);
+        pointer-events: all;
+      }
+    }
+    
+  }
+  &__title {
+    margin-bottom: 1em;
+    font-size: 3em;
+    width: 80%;
+    text-shadow: 2px 2px 2px rgb(0, 0, 0);
+  }
+  &__textArea {
+    resize: none;
+  }
+  &__checkbox {
+    display: inline-block;
+  }
+  &__agreement {
+    color: #6c757d;
+    transition: color 0.3s linear;
+    &:hover {
+      color: white;
+    }
+  }
+  &__userName {
+    width: 33%;
+  }
+  &__userEmail {
+    width: 33%;
+  }
+}
+@media screen and (max-width: 1400px) {
+  .feedback__title {
+    margin-bottom: 0.5em;
+  }
+}
+@media screen and (max-width: 768px) {
+  .feedback__title {
+    font-size: 2em;
+  }
+}
+@media screen and (max-width: 768px) and (orientation: portrait) {
+  .feedback {
+    font-size: 3rem;
+    height: 80%;
+    & input,
+    textarea {
+      font-size: 4rem;
+    }
+    &__form {
+      & > a {
+        width: 50%;
+        font-size: 1.5em;
+      }
+    }
+    &__title {
+      // margin-bottom: 1em;
+      // font-size: 7em;
+    }
+    &__textArea {
+      resize: none;
+    }
+    &__checkbox {
+      // font-size: 7em;
+      display: inline-block;
+    }
+    &__agreement {
+      // font-size: 7em;
+      color: white;
+      transition: color 0.3s linear;
+      &:hover {
+        color: white;
+      }
+    }
+    &__userName {
+      // font-size: 7em;
+      width: 50%;
+    }
+    &__userEmail {
+      width: 50%;
+    }
+  }
+}
+@media screen and (max-width: 576px) {
+  .feedback {
+    font-size: 2rem;
+    height: 80%;
+    & input,
+    textarea {
+      font-size: 2rem;
+    }
+    &__form {
+      & > a {
+        width: 66%;
+      }
+    }
+  }
+}

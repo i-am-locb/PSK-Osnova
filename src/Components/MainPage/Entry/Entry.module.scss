@@ -1,0 +1,70 @@
+.entry {
+  padding: 0;
+  margin: 0;
+  height: 100vh;
+  width: 100vw;
+  overflow: hidden;
+  position: relative;
+  & video {
+    padding: 0;
+    margin: 0;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: -2;
+  }
+  & .entry__titles {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 5em 2em;
+    & .entry__companyName {
+      line-height: 8rem;
+      margin-bottom: 2rem;
+      font-size: 10em;
+      font-weight: bold;
+      text-transform: uppercase;
+      color: white;
+    }
+    & .entry__title {
+      margin-bottom: 2rem;
+      font-size: 4em;
+    }
+    & a {
+      width: 25rem;
+      font-size: 2.5em;
+      background: rgba(255, 255, 255, 0.1);
+      box-shadow: 0 5px 5px rgba(0, 0, 0.2);
+    }
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .entry {
+    & .entry__titles {
+      // justify-content: space-around;
+      & .entry__companyName {
+        font-size: 15em;
+        margin-bottom: 10rem;
+      }
+      & .entry__title {
+        font-size: 8em;
+        margin-bottom: 10rem;
+      }
+      & a {
+        width: 50rem;
+        font-size: 5em;
+      }
+    }
+  }
+}
+
+@media screen and (max-width: 576px) {
+  .entry {
+    & .entry__titles {
+      & .entry__companyName {
+        line-height: 12rem;
+      }
+    }
+  }
+}

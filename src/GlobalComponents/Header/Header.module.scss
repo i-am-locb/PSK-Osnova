@@ -1,0 +1,84 @@
+@use "../../GlobalStyles/base.scss" as base;
+
+.header {
+  padding: 0;
+  position: absolute;
+  top: 1.25em;
+  left: 1.25em;
+  z-index: 1;
+  & .header__items {
+    display: flex;
+    flex-direction: row;
+    & .linkWrapper {
+      text-decoration: none;
+      & > a {
+        font-size: 1.5em;
+      }
+    }
+  }
+}
+.header__burger {
+  display: none;
+  position: fixed;
+  top: 2em;
+  right: 2em;
+  width: 50px;
+  z-index: 1;
+  transform: scale(0.7);
+  transform-origin: top right;
+  &:before,
+  &:after,
+  & div {
+    background: rgba(255, 255, 255, 0.3);
+    content: "";
+    display: block;
+    height: 6px;
+    border-radius: 3px;
+    margin: 7px 0;
+    transition: 0.5s;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .header {
+    .header__items {
+      position: fixed;
+      top: 0;
+      left: 0;
+      width: 100vw;
+      height: 100vh;
+      background-color: rgb(119, 119, 119);
+      transform: translateX(-100%);
+      transition: all 0.5s linear;
+      flex-direction: column;
+      justify-content: space-around;
+      padding: 20em 2em;
+      & .linkWrapper {
+        & > a {
+          font-size: 5em;
+        }
+      }
+    }
+    .header__burger {
+      display: block;
+    }
+  }
+}
+.header {
+  & .open {
+    transform: translateX(0);
+  }
+}
+.burgerOpen {
+  &:before {
+    transform: translateY(12px) rotate(135deg);
+    background: rgba(255, 255, 255);
+  }
+  &:after {
+    transform: translateY(-12px) rotate(-135deg);
+    background: rgba(255, 255, 255);
+  }
+  & div {
+    transform: scale(0);
+  }
+}

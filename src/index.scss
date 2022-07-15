@@ -1,0 +1,77 @@
+@use "./GlobalStyles/base.scss" as base;
+
+html {
+  box-sizing: border-box;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: inherit;
+  margin: 0;
+  padding: 0;
+}
+html body {
+  font-family: "Noto Sans Mono", monospace, -apple-system, BlinkMacSystemFont,
+    "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans",
+    "Droid Sans", "Helvetica Neue", sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  color: base.$main-text-color;
+  background-color: base.$color-tomato;
+  font-size: 1em;
+}
+// body {
+//   // overflow: hidden;
+// }
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+.row,
+.row > *,
+.container,
+.container-fluid,
+.container-lg,
+.container-md,
+.container-sm,
+.container-xl,
+.container-xxl {
+  padding-right: 0 ;
+  padding-left: 0 ;
+  padding-top: 0 ;
+  padding-bottom: 0 ;
+  margin-right: 0 ;
+  margin-left: 0 ;
+  margin-top: 0 ;
+  margin-bottom: 0 ;
+}
+ 
+
+@media screen and (max-width: 1400px) {
+  html {
+    font-size: .8em;
+  }
+}
+@media screen and (max-width: 1200px) {
+  html {
+    font-size: .8em;
+  }
+}
+@media screen and (max-width: 992px) {
+  html {
+    font-size: .6em;
+  }
+}
+@media screen and (max-width: 768px) {
+  html {
+    font-size: .4em;
+  }
+}
+@media screen and (max-width: 576px) {
+  html {
+    font-size: .4em;
+  }
+}

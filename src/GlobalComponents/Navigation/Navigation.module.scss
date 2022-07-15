@@ -1,0 +1,99 @@
+.navigation {
+  width: 50%;
+  height: 100vh;
+  position: fixed;
+  top: 0;
+  right: 0;
+  z-index: 1;
+  pointer-events: none;
+  & .navigation__list {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: flex-end;
+    list-style: none;
+    font-size: 1rem;
+    height: 80%;
+    padding: 1em 2em 1em 0;
+    margin-bottom: 0;
+    position: absolute;
+    top: 50%;
+    right: 0;
+    transform: translateY(-50%);
+    transition: all 1s linear;
+    &::before {
+      content: "";
+      position: absolute;
+      width: 0.4em;
+      height: calc(100% - 4em);
+      margin-top: 1em;
+      border-radius: 0.2em;
+      background-color: rgba(255, 255, 255, 0.2);
+    }
+
+    &.navigation__list_first::after {
+      content: "";
+      position: absolute;
+      width: 0.4em;
+      height: 0;
+      margin-top: 1em;
+      border-radius: 0.2em;
+      background-color: #fff;
+      transition: all 1s linear;
+    }
+    &.navigation__list_second::after {
+      height: calc((100% - 4em) / 3);
+    }
+    &.navigation__list_third::after {
+      height: calc((100% - 4em) / 3 * 2);
+    }
+    &.navigation__list_fourth::after {
+      height: calc((100% - 4em) / 3 * 3);
+    }
+
+    & li {
+      position: relative;
+    }
+    & li::before {
+      content: "";
+      font-size: 1rem;
+      width: 1.5em;
+      height: 1.5em;
+      border-radius: 50%;
+      z-index: 1;
+      border: 5px solid rgba(255, 255, 255);
+      background-color: #b3b4b0;
+      position: absolute;
+      top: 50%;
+      right: 0;
+      transition: all 1s linear;
+      transform: translate(calc(50% - 0.2em), -50%);
+    }
+    & li.navigation__item_active::before {
+      background-color: #fff;
+    }
+    & .navigation__link {
+      display: inline-block;
+      position: relative;
+      padding-right: 1em;
+      font-size: 1.5rem;
+      color: rgba(255, 255, 255, 0.6);
+      text-shadow: 0 0 5px rgba(0, 0, 0.2);
+      pointer-events: all;
+      cursor: pointer;
+      text-decoration: none;
+      transition: all 0.3s linear;
+
+      &_active {
+        color: #fff;
+        transform: scale(1.5) translateX(-25%);
+      }
+    }
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .navigation {
+    display: none;
+  }
+}
