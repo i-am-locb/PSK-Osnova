@@ -11,19 +11,19 @@
       "title": "Бескаркасные стеклянные перегородки",
       "description": "Перегородки выполняются из закалённого, высокопрочного стекла (высотой до 6 метров, шириной до 3 метров при толщине от 8 до12 мм) и зажимного профиля. Стеклянные панели крепятся к стенам при помощи коннекторов. Стекла соединяются между собой с помощью тех же коннекторов, либо «стык в стык», что создаёт эффект целостности конструкции. Стекло панелей может быть полностью прозрачным или матовым, а так же тонированным в своей массе или зеркальным. Возможно нанесение различных рисунков на поверхность, с помощью химической или пескоструйной обработки стекла. Так же производим нанесение на поверхность бронирующих и архитектурных плёночных покрытий. /br В производстве стеклянных конструкций используем качественную фурнитуру таких известных марок как: DORMA, TITAN, KIN LONG, Stanley GMT, SADEV, ORMAN. /br Осуществляем постгарантийное обслуживание конструкций и механизмов.",
       "photos": [
-        "/Photos/Services/Frameless/Frameless_1.png",
-        "/Photos/Services/Frameless/Frameless_2.png",
-        "/Photos/Services/Frameless/Frameless_3.png",
-        "/Photos/Services/Frameless/Frameless_4.png",
-        "/Photos/Services/Frameless/Frameless_5.png",
-        "/Photos/Services/Frameless/Frameless_6.png",
-        "/Photos/Services/Frameless/Frameless_7.png",
-        "/Photos/Services/Frameless/Frameless_8.png",
-        "/Photos/Services/Frameless/Frameless_9.png",
-        "/Photos/Services/Frameless/Frameless_10.png",
-        "/Photos/Services/Frameless/Frameless_11.png",
-        "/Photos/Services/Frameless/Frameless_12.png",
-        "/Photos/Services/Frameless/Frameless_13.png"
+        "./Photos/Services/Frameless/Frameless_1.png",
+        "./Photos/Services/Frameless/Frameless_2.png",
+        "./Photos/Services/Frameless/Frameless_3.png",
+        "./Photos/Services/Frameless/Frameless_4.png",
+        "./Photos/Services/Frameless/Frameless_5.png",
+        "./Photos/Services/Frameless/Frameless_6.png",
+        "./Photos/Services/Frameless/Frameless_7.png",
+        "./Photos/Services/Frameless/Frameless_8.png",
+        "./Photos/Services/Frameless/Frameless_9.png",
+        "./Photos/Services/Frameless/Frameless_10.png",
+        "./Photos/Services/Frameless/Frameless_11.png",
+        "./Photos/Services/Frameless/Frameless_12.png",
+        "./Photos/Services/Frameless/Frameless_13.png"
       ]
     },
     {
@@ -31,15 +31,15 @@
       "title": "Сдвижные стеклянные перегородки",
       "description": "Сдвижные перегородки - это один из способов зонирования помещений, с возможностью моментальной трансформации, сочетающий в себе практичность, удобство и эстетику. Существуют прямые, сегментные и радиусные перегородки. Могут использоваться как в жилых, так и в офисных и торговых помещениях. Изготавливаются из ударопрочного закалённого стекла толщиной от 8 до 12 мм. и крепятся на направляющие с помощью зажимных алюминиевых элементов. При изготовлении перегородок может быть использовано как прозрачное, так и окрашенное, матированное или оклеенное плёнкой стекло./br Возможно нанесение рисунков или логотипов путём пескоструйной или химической обработки./brВ течение года, после ввода конструкций в эксплуатацию, осуществляем бесплатное обслуживание и регулировку всех механизмов системы.",
       "photos": [
-        "/Photos/Services/Sliding/Sliding_1.png",
-        "/Photos/Services/Sliding/Sliding_2.png",
-        "/Photos/Services/Sliding/Sliding_3.png",
-        "/Photos/Services/Sliding/Sliding_4.png",
-        "/Photos/Services/Sliding/Sliding_5.png",
-        "/Photos/Services/Sliding/Sliding_6.png",
-        "/Photos/Services/Sliding/Sliding_7.png",
-        "/Photos/Services/Sliding/Sliding_8.png",
-        "/Photos/Services/Sliding/Sliding_9.png"
+        "./Photos/Services/Sliding/Sliding_1.png",
+        "./Photos/Services/Sliding/Sliding_2.png",
+        "./Photos/Services/Sliding/Sliding_3.png",
+        "./Photos/Services/Sliding/Sliding_4.png",
+        "./Photos/Services/Sliding/Sliding_5.png",
+        "./Photos/Services/Sliding/Sliding_6.png",
+        "./Photos/Services/Sliding/Sliding_7.png",
+        "./Photos/Services/Sliding/Sliding_8.png",
+        "./Photos/Services/Sliding/Sliding_9.png"
       ]
     },
     {
@@ -47,12 +47,12 @@
       "title": "Каркасные стеклянные перегородки",
       "description": "Каркасные стеклянные перегородки - это экономичный, быстрый и в то же время эстетичный вариант организации внутреннего пространства помещений. Силовым элементом этих перегородок служит каркас из алюминиевого или ПВХ профиля. В качестве заполнителя секций используются различные виды стекла или стеклопакета, в зависимости от назначения перегородок. Возможно комбинированное заполнение проёмов с использованием сэндвич панелей или гипсокартона.",
       "photos": [
-        "/Photos/Services/Сarcass/Сarcass_1.png",
-        "/Photos/Services/Сarcass/Сarcass_2.png",
-        "/Photos/Services/Сarcass/Сarcass_3.png",
-        "/Photos/Services/Сarcass/Сarcass_4.png",
-        "/Photos/Services/Сarcass/Сarcass_5.png",
-        "/Photos/Services/Сarcass/Сarcass_6.png"
+        "./Photos/Services/Сarcass/Сarcass_1.png",
+        "./Photos/Services/Сarcass/Сarcass_2.png",
+        "./Photos/Services/Сarcass/Сarcass_3.png",
+        "./Photos/Services/Сarcass/Сarcass_4.png",
+        "./Photos/Services/Сarcass/Сarcass_5.png",
+        "./Photos/Services/Сarcass/Сarcass_6.png"
       ]
     },
     {
@@ -60,18 +60,18 @@
       "title": "Стеклянные ограждения и перила",
       "description": "Стеклянные ограждения и перила отлично подходят для оформления лестниц, террас, балконов как в торговых и офисных зданиях, таки в частных домах. Подобные конструкции отличаются визуально лёгким, воздушным дизайном, который эффектно вписывается в любой интерьер. Несмотря на кажущуюся хрупкость, ограждения из стекла обладают необходимой и достаточной прочностью. Изделия изготавливаются из закалённого стекла или многослойного закалённого стекла триплекс. Эти ограждения могут быть как самонесущими – бескаркасными, так и крепиться на металлических стойках. В зависимости от выбранного дизайна конструкции, ограждения могут комплектоваться перилами из нержавеющей стали, алюминия или дерева. Возможны комбинированные варианты./brСтоимость данного вида продукции зависит от множества вводных. Начиная архитектурным проектом и заканчивая прочностью конструкций, с которыми будет сопрягаться будущее ограждение. Поэтому окончательная цена формируется после детального технического просчёта изделия нашим конструктором.",
       "photos": [
-        "/Photos/Services/Parapet/Parapet_1.png",
-        "/Photos/Services/Parapet/Parapet_2.png",
-        "/Photos/Services/Parapet/Parapet_3.png",
-        "/Photos/Services/Parapet/Parapet_4.png",
-        "/Photos/Services/Parapet/Parapet_5.png",
-        "/Photos/Services/Parapet/Parapet_6.png",
-        "/Photos/Services/Parapet/Parapet_7.png",
-        "/Photos/Services/Parapet/Parapet_8.png",
-        "/Photos/Services/Parapet/Parapet_9.png",
-        "/Photos/Services/Parapet/Parapet_10.png",
-        "/Photos/Services/Parapet/Parapet_11.png",
-        "/Photos/Services/Parapet/Parapet_12.png"
+        "./Photos/Services/Parapet/Parapet_1.png",
+        "./Photos/Services/Parapet/Parapet_2.png",
+        "./Photos/Services/Parapet/Parapet_3.png",
+        "./Photos/Services/Parapet/Parapet_4.png",
+        "./Photos/Services/Parapet/Parapet_5.png",
+        "./Photos/Services/Parapet/Parapet_6.png",
+        "./Photos/Services/Parapet/Parapet_7.png",
+        "./Photos/Services/Parapet/Parapet_8.png",
+        "./Photos/Services/Parapet/Parapet_9.png",
+        "./Photos/Services/Parapet/Parapet_10.png",
+        "./Photos/Services/Parapet/Parapet_11.png",
+        "./Photos/Services/Parapet/Parapet_12.png"
       ]
     },
     {
@@ -79,20 +79,20 @@
       "title": "Стеклянные козырьки и навесы",
       "description": "Стеклянные козырьки и навесы из закалённого, ударопрочного стекла это ультрасовременный архитектурный элемент фасада здания. Прозрачные козырьки могут украсить строения, возведённые по современным стандартам и не испортить архитектурную композицию фасадов старинных особняков. Особо ценно это качество стеклянных навесных элементов при реконструкции памятников архитектуры. Неоспоримым преимуществом стеклянных козырьков и навесных конструкций из стекла является их светопропускная способность, при достаточной прочности./brМы изготавливаем и производим монтаж стеклянных козырьков и навесов из закалённого, ударопрочного стекла или композиции стёкол типа «триплекс» с дополнительным нанесением ударопрочного материала исключающего какой либо разлёт осколков при возникновении чрезвычайных ситуаций./brПри монтаже конструкции, мы предлагаем несколько вариантов крепления:/brконсольно в металлический профиль закреплённый к стене здания, без дополнительных связей и усиливающих элементов;/brвантовое крепление стеклянного козырька, посредством установки подвесной системы;/brна металлический каркас из нержавеющей стали любой формы и сечения профиля с дополнительными подвесными связями и растяжками;/brна независимую, цельносварную конструкцию из металла с дополнительными опорами./brВсе работы производим собственными силами и предоставляем гарантию – до 2х лет на монтажные работы. Осуществляем послегарантийное обслуживание наших конструкций.",
       "photos": [
-        "/Photos/Services/Canopy/Canopy_1.png",
-        "/Photos/Services/Canopy/Canopy_2.png",
-        "/Photos/Services/Canopy/Canopy_3.png",
-        "/Photos/Services/Canopy/Canopy_4.png",
-        "/Photos/Services/Canopy/Canopy_5.png",
-        "/Photos/Services/Canopy/Canopy_6.png",
-        "/Photos/Services/Canopy/Canopy_7.png",
-        "/Photos/Services/Canopy/Canopy_8.png",
-        "/Photos/Services/Canopy/Canopy_9.png",
-        "/Photos/Services/Canopy/Canopy_10.png",
-        "/Photos/Services/Canopy/Canopy_11.png",
-        "/Photos/Services/Canopy/Canopy_12.png",
-        "/Photos/Services/Canopy/Canopy_13.png",
-        "/Photos/Services/Canopy/Canopy_14.png"
+        "./Photos/Services/Canopy/Canopy_1.png",
+        "./Photos/Services/Canopy/Canopy_2.png",
+        "./Photos/Services/Canopy/Canopy_3.png",
+        "./Photos/Services/Canopy/Canopy_4.png",
+        "./Photos/Services/Canopy/Canopy_5.png",
+        "./Photos/Services/Canopy/Canopy_6.png",
+        "./Photos/Services/Canopy/Canopy_7.png",
+        "./Photos/Services/Canopy/Canopy_8.png",
+        "./Photos/Services/Canopy/Canopy_9.png",
+        "./Photos/Services/Canopy/Canopy_10.png",
+        "./Photos/Services/Canopy/Canopy_11.png",
+        "./Photos/Services/Canopy/Canopy_12.png",
+        "./Photos/Services/Canopy/Canopy_13.png",
+        "./Photos/Services/Canopy/Canopy_14.png"
       ]
     },
     {
@@ -100,16 +100,16 @@
       "title": "Душевые кабины",
       "description": "Душевые стеклянные кабины и перегородки являются уникальным дизайнерским решением оформления ванных комнат. Они практичны, функциональны, просты в уходе и самое главное – безопасные и долговечные. Изготавливаемые на заказ, могут перекрывать любую площадь при многообразии конфигураций. Для придания эксклюзивности, стеклянные поверхности могут быть затонированны, иметь матовую поверхность, или с нанесённым декоративным рисунком.",
       "photos": [
-        "/Photos/Services/Shower/Shower_1.png",
-        "/Photos/Services/Shower/Shower_2.png",
-        "/Photos/Services/Shower/Shower_3.png",
-        "/Photos/Services/Shower/Shower_4.png",
-        "/Photos/Services/Shower/Shower_5.png",
-        "/Photos/Services/Shower/Shower_6.png",
-        "/Photos/Services/Shower/Shower_7.png",
-        "/Photos/Services/Shower/Shower_8.png",
-        "/Photos/Services/Shower/Shower_9.png",
-        "/Photos/Services/Shower/Shower_10.png"
+        "./Photos/Services/Shower/Shower_1.png",
+        "./Photos/Services/Shower/Shower_2.png",
+        "./Photos/Services/Shower/Shower_3.png",
+        "./Photos/Services/Shower/Shower_4.png",
+        "./Photos/Services/Shower/Shower_5.png",
+        "./Photos/Services/Shower/Shower_6.png",
+        "./Photos/Services/Shower/Shower_7.png",
+        "./Photos/Services/Shower/Shower_8.png",
+        "./Photos/Services/Shower/Shower_9.png",
+        "./Photos/Services/Shower/Shower_10.png"
       ]
     },
     {
@@ -117,20 +117,20 @@
       "title": "Зеркальные панно и зеркала",
       "description": "Зеркальное панно это уникальный вид декора, способный подчеркнуть изысканность и богатство интерьера. Отражающий эффект зеркала позволяет с лёгкостью корректировать любые недостатки помещения, а разнообразие форм придаёт эксклюзивность. Собранное из зеркальных плиток разной формы, зеркальное панно – беспроигрышный вариант как в классическом, так и в эксклюзивном дизайне любого помещения. Отдельного внимания заслуживают зеркала нестандартных размеров. Их габариты могут доходить до 6 метров в высоту и 3 метров в ширину. Большие, крупногабаритные зеркала устанавливают не только в спортивных и танцевальных залах, большой популярностью они пользуются в торгово-развлекательных центрах, ресторанах, кинотеатрах и гостиницах. В последнее время их всё чаще заказывают в загородные особняки и фешенебельные городские апартаменты.",
       "photos": [
-        "/Photos/Services/Pano/Pano_1.png",
-        "/Photos/Services/Pano/Pano_2.png",
-        "/Photos/Services/Pano/Pano_3.png",
-        "/Photos/Services/Pano/Pano_4.png",
-        "/Photos/Services/Pano/Pano_5.png",
-        "/Photos/Services/Pano/Pano_6.png",
-        "/Photos/Services/Pano/Pano_7.png",
-        "/Photos/Services/Pano/Pano_8.png",
-        "/Photos/Services/Pano/Pano_9.png",
-        "/Photos/Services/Pano/Pano_10.png",
-        "/Photos/Services/Pano/Pano_11.png",
-        "/Photos/Services/Pano/Pano_12.png",
-        "/Photos/Services/Pano/Pano_13.png",
-        "/Photos/Services/Pano/Pano_14.png"
+        "./Photos/Services/Pano/Pano_1.png",
+        "./Photos/Services/Pano/Pano_2.png",
+        "./Photos/Services/Pano/Pano_3.png",
+        "./Photos/Services/Pano/Pano_4.png",
+        "./Photos/Services/Pano/Pano_5.png",
+        "./Photos/Services/Pano/Pano_6.png",
+        "./Photos/Services/Pano/Pano_7.png",
+        "./Photos/Services/Pano/Pano_8.png",
+        "./Photos/Services/Pano/Pano_9.png",
+        "./Photos/Services/Pano/Pano_10.png",
+        "./Photos/Services/Pano/Pano_11.png",
+        "./Photos/Services/Pano/Pano_12.png",
+        "./Photos/Services/Pano/Pano_13.png",
+        "./Photos/Services/Pano/Pano_14.png"
       ]
     },
     {
@@ -138,16 +138,16 @@
       "title": "Рольставни",
       "description": "Стоимость рольставен определяется множеством факторов среди них: тип профиля полотна, вариант механизма ручной или автоматический, тип управления и т.д. Только после согласования комплектации рольставен менеджер сможет сообщить клиенту конечную цену на рольставни. Средняя цена механических рольставен от 4500 руб./кв.м., стоимость автоматических рольставен начинается от 7000р./кв.м.",
       "photos": [
-        "/Photos/Services/Roller/Roller_1.png",
-        "/Photos/Services/Roller/Roller_2.png",
-        "/Photos/Services/Roller/Roller_3.png",
-        "/Photos/Services/Roller/Roller_4.png",
-        "/Photos/Services/Roller/Roller_5.png",
-        "/Photos/Services/Roller/Roller_6.png",
-        "/Photos/Services/Roller/Roller_7.png",
-        "/Photos/Services/Roller/Roller_8.png",
-        "/Photos/Services/Roller/Roller_9.png",
-        "/Photos/Services/Roller/Roller_10.png"
+        "./Photos/Services/Roller/Roller_1.png",
+        "./Photos/Services/Roller/Roller_2.png",
+        "./Photos/Services/Roller/Roller_3.png",
+        "./Photos/Services/Roller/Roller_4.png",
+        "./Photos/Services/Roller/Roller_5.png",
+        "./Photos/Services/Roller/Roller_6.png",
+        "./Photos/Services/Roller/Roller_7.png",
+        "./Photos/Services/Roller/Roller_8.png",
+        "./Photos/Services/Roller/Roller_9.png",
+        "./Photos/Services/Roller/Roller_10.png"
       ]
     },
     {
@@ -155,32 +155,32 @@
       "title": "Общестроительные и отделочные работы",
       "description": "Мы предлагаем заказчику комплексный подход с нашей стороны, что может существенно расширить рамки сотрудничества и при этом сократить издержки на производство, для обеих сторон./brЗа своё время деятельности, наша компания наработала необходимую и достаточную производственную базу. Штат укомплектован грамотными специалистами в области строительного производства. Основная стратегия нашей компании - применение новых технологий в области ремонта и строительства, основной принцип – постоянный поиск, движение вперед. Мы стараемся работать, опережая сегодняшнюю конъюнктуру рынка, но всегда с учетом интересов наших потребителей и их высоких требований, предъявляемых к качеству нашей конечной продукции. Мы работаем с постоянными поставщиками, строительные материалы которых прошли необходимую сертификацию, что дает гарантию качества и безопасность вашему здоровью. Компании и специалисты, привлекаемые нашей организацией для производства субподрядных и смежных работ, имеют необходимую квалификацию и длительный опыт в своей сфере деятельности./brОсновным принципом, на котором основана ценовая политика нашей компании, является оптимальное соотношение цены и качества конечного продукта.",
       "photos": [
-        "/Photos/Services/Works/Works_1.png",
-        "/Photos/Services/Works/Works_2.png",
-        "/Photos/Services/Works/Works_3.png",
-        "/Photos/Services/Works/Works_4.png",
-        "/Photos/Services/Works/Works_5.png",
-        "/Photos/Services/Works/Works_6.png",
-        "/Photos/Services/Works/Works_7.png",
-        "/Photos/Services/Works/Works_8.png",
-        "/Photos/Services/Works/Works_9.png",
-        "/Photos/Services/Works/Works_10.png",
-        "/Photos/Services/Works/Works_11.png",
-        "/Photos/Services/Works/Works_12.png",
-        "/Photos/Services/Works/Works_13.png",
-        "/Photos/Services/Works/Works_14.png",
-        "/Photos/Services/Works/Works_15.png",
-        "/Photos/Services/Works/Works_16.png",
-        "/Photos/Services/Works/Works_17.png",
-        "/Photos/Services/Works/Works_18.png",
-        "/Photos/Services/Works/Works_19.png",
-        "/Photos/Services/Works/Works_20.png",
-        "/Photos/Services/Works/Works_21.png",
-        "/Photos/Services/Works/Works_22.png",
-        "/Photos/Services/Works/Works_23.png",
-        "/Photos/Services/Works/Works_24.png",
-        "/Photos/Services/Works/Works_25.png",
-        "/Photos/Services/Works/Works_26.png"
+        "./Photos/Services/Works/Works_1.png",
+        "./Photos/Services/Works/Works_2.png",
+        "./Photos/Services/Works/Works_3.png",
+        "./Photos/Services/Works/Works_4.png",
+        "./Photos/Services/Works/Works_5.png",
+        "./Photos/Services/Works/Works_6.png",
+        "./Photos/Services/Works/Works_7.png",
+        "./Photos/Services/Works/Works_8.png",
+        "./Photos/Services/Works/Works_9.png",
+        "./Photos/Services/Works/Works_10.png",
+        "./Photos/Services/Works/Works_11.png",
+        "./Photos/Services/Works/Works_12.png",
+        "./Photos/Services/Works/Works_13.png",
+        "./Photos/Services/Works/Works_14.png",
+        "./Photos/Services/Works/Works_15.png",
+        "./Photos/Services/Works/Works_16.png",
+        "./Photos/Services/Works/Works_17.png",
+        "./Photos/Services/Works/Works_18.png",
+        "./Photos/Services/Works/Works_19.png",
+        "./Photos/Services/Works/Works_20.png",
+        "./Photos/Services/Works/Works_21.png",
+        "./Photos/Services/Works/Works_22.png",
+        "./Photos/Services/Works/Works_23.png",
+        "./Photos/Services/Works/Works_24.png",
+        "./Photos/Services/Works/Works_25.png",
+        "./Photos/Services/Works/Works_26.png"
       ]
     }
   ],
@@ -817,43 +817,43 @@
   "stages": [
     {
       "id": 1,
-      "icon": "/Photos/Icons/ico1.png",
+      "icon": "./Photos/Icons/ico1.png",
       "title": "Вы звоните нам",
       "text": "Вы звоните нам и заказываете выезд замерщика на объект или присылаете к нам на почту имеющийся проект"
     },
     {
       "id": 2,
-      "icon": "/Photos/Icons/ico2.png",
+      "icon": "./Photos/Icons/ico2.png",
       "title": "Выезжает наш специалист",
       "text": "Наш специалист выезжает к вам для осуществления замеров, для последующего расчёта или делает предварительный расчёт по ранее присланным чертежам и рисункам"
     },
     {
       "id": 3,
-      "icon": "/Photos/Icons/ico3.png",
+      "icon": "./Photos/Icons/ico3.png",
       "title": "Согласовываем стоимость",
       "text": "Согласовываем окончательную стоимость и сроки выполнения работ. Заключаем договор на производство работ"
     },
     {
       "id": 4,
-      "icon": "/Photos/Icons/ico4.png",
+      "icon": "./Photos/Icons/ico4.png",
       "title": "Оплачиваете 70%",
       "text": "Вы оплачиваете 70% от стоимости работ по договору. (Возможны другие варианты оплаты при поэтапном выполнении работ)"
     },
     {
       "id": 5,
-      "icon": "/Photos/Icons/ico5.png",
+      "icon": "./Photos/Icons/ico5.png",
       "title": "Мы приступаем к изготовлению",
       "text": "Наши специалисты выезжают на объект для производства контрольного обмера. После этого мы приступаем к изготовлению стеклянных элементов и других комплектующих"
     },
     {
       "id": 6,
-      "icon": "/Photos/Icons/ico6.png",
+      "icon": "./Photos/Icons/ico6.png",
       "title": "Производим монтаж",
       "text": "Производим монтаж конструкций на условиях и в сроки, прописанных в договоре"
     },
     {
       "id": 7,
-      "icon": "/Photos/Icons/ico7.png",
+      "icon": "./Photos/Icons/ico7.png",
       "title": "Окончательная оплата",
       "text": "По завершению производства работ и подписанию актов выполненных работ, вы осуществляете окончательную оплату по договору"
     }
