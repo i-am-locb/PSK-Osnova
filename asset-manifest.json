@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/psk-osnova/static/css/main.ad0218e7.css",
-    "main.js": "/psk-osnova/static/js/main.1d99c4d7.js",
+    "main.js": "/psk-osnova/static/js/main.2d83c449.js",
     "static/js/787.28cb0dcd.chunk.js": "/psk-osnova/static/js/787.28cb0dcd.chunk.js",
     "index.html": "/psk-osnova/index.html",
     "main.ad0218e7.css.map": "/psk-osnova/static/css/main.ad0218e7.css.map",
-    "main.1d99c4d7.js.map": "/psk-osnova/static/js/main.1d99c4d7.js.map",
+    "main.2d83c449.js.map": "/psk-osnova/static/js/main.2d83c449.js.map",
     "787.28cb0dcd.chunk.js.map": "/psk-osnova/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ad0218e7.css",
-    "static/js/main.1d99c4d7.js"
+    "static/js/main.2d83c449.js"
   ]
 }
