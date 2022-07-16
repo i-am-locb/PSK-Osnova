@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.ad0218e7.css",
-    "main.js": "/static/js/main.5f1fdda5.js",
-    "static/js/787.28cb0dcd.chunk.js": "/static/js/787.28cb0dcd.chunk.js",
-    "index.html": "/index.html",
-    "main.ad0218e7.css.map": "/static/css/main.ad0218e7.css.map",
-    "main.5f1fdda5.js.map": "/static/js/main.5f1fdda5.js.map",
-    "787.28cb0dcd.chunk.js.map": "/static/js/787.28cb0dcd.chunk.js.map"
+    "main.css": "/psk-osnova/static/css/main.ad0218e7.css",
+    "main.js": "/psk-osnova/static/js/main.3267502c.js",
+    "static/js/787.28cb0dcd.chunk.js": "/psk-osnova/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/psk-osnova/index.html",
+    "main.ad0218e7.css.map": "/psk-osnova/static/css/main.ad0218e7.css.map",
+    "main.3267502c.js.map": "/psk-osnova/static/js/main.3267502c.js.map",
+    "787.28cb0dcd.chunk.js.map": "/psk-osnova/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ad0218e7.css",
-    "static/js/main.5f1fdda5.js"
+    "static/js/main.3267502c.js"
   ]
 }
