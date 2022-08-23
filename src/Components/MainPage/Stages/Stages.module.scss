@@ -1,3 +1,4 @@
+@use "../../../GlobalStyles/base.scss" as base;
 .stages {
   min-height: 100vh;
   padding: 2em;
@@ -13,8 +14,8 @@
     margin-right: 5em;
     border-radius: 2em;
     position: relative;
-    background: rgba(255, 255, 255, 0.1);
-    box-shadow: 0 5px 5px rgba(0, 0, 0.2);
+    background: base.$alpha-01;
+    box-shadow: base.$box-shadow;
     overflow: hidden;
     &:hover {
       & .stages__icon {
@@ -50,7 +51,7 @@
     transform: translateY(100%);
     transition: all 0.3s linear;
     background: rgba(0, 0, 0, 0.4);
-    text-shadow: 2px 2px 2px rgb(0, 0, 0);
+    text-shadow: base.$text-shadow;
     border-radius: 2em;
     display: flex;
     flex-direction: column;
@@ -62,7 +63,7 @@
     margin-bottom: 0;
     transform: translateY(-100%);
     transition: all 0.3s linear;
-    text-shadow: 2px 2px 2px rgb(0, 0, 0);
+    text-shadow: base.$text-shadow;
   }
   &__text {
     padding: 1rem;

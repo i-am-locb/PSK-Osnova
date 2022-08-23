@@ -1,12 +1,12 @@
-import { useEffect, useState } from "react";
-import { servicesVersion } from "typescript";
+import { RefObject, useEffect, useState } from "react";
+import { IServiceItem, IServiceItemPhotos } from "../../../types";
 import styles from "./SliderItem.module.scss";
 
 type Props = {
-  species: any;
-  array1: any;
-  buff: any;
-  setArray: any;
+  species: IServiceItem;
+  array1: RefObject<HTMLDivElement>;
+  buff: any[];
+  setArray: React.Dispatch<React.SetStateAction<Array<HTMLDivElement | null>>>
 };
 
 export const SliderItem: React.FC<Props> = ({
@@ -69,18 +69,43 @@ export const SliderItem: React.FC<Props> = ({
     >
       <div className={styles.slider__img}>
         {!isModalOpen ? (
-          <img src={species.photos[0]} alt="" />
+          <img src={process.env.PUBLIC_URL + species.photos[0].xxl} alt="" />
         ) : (
           <>
-            {species.photos.map((e: any, index: number) => (
-              <img
+            {species.photos.map((e: IServiceItemPhotos, index: number) => (
+              <picture
                 key={index}
-                src={e}
-                alt=""
                 style={
                   !isModalOpen ? undefined : { transform: `translatex(-${x}%)` }
                 }
-              />
+              >
+                <source
+                  srcSet={process.env.PUBLIC_URL + e.xxl}
+                  media="(min-width: 1400px)"
+                  type="image/webp"
+                />
+                <source
+                  srcSet={process.env.PUBLIC_URL + e.xl}
+                  media="(min-width: 1200px)"
+                  type="image/webp"
+                />
+                <source
+                  srcSet={process.env.PUBLIC_URL + e.l}
+                  media="(min-width: 992px)"
+                  type="image/webp"
+                />
+                <source
+                  srcSet={process.env.PUBLIC_URL + e.m}
+                  media="(min-width: 768px)"
+                  type="image/webp"
+                />
+                <source
+                  srcSet={process.env.PUBLIC_URL + e.s}
+                  media="(min-width: 576px)"
+                  type="image/webp"
+                />
+                <img src={process.env.PUBLIC_URL + e.xs} alt="" />
+              </picture>
             ))}
           </>
         )}
@@ -89,12 +114,12 @@ export const SliderItem: React.FC<Props> = ({
       <div className={styles.slider__text}>
         <h4 className={styles.slider__title}>{species.title}</h4>
         <p className={styles.slider__description}>{species.description}</p>
-        <button
-          className={styles.slider__closeButton}
+        <div
+          className={styles.closeButton}
           onClick={() => setIsModalOpen(false)}
         >
-          Закрыть
-        </button>
+          <div></div>
+        </div>
       </div>
     </div>
   );

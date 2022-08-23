@@ -1,22 +1,27 @@
 import { Row } from "react-bootstrap";
 import { useSelector } from "react-redux";
+import { IStageItem, IState } from "../../../types";
 import styles from "./Stages.module.scss";
 
 export const Stages = () => {
-  const stages = useSelector((state: any) => state.data.stages);
-  return <Row className={styles.stages}>
-    {stages.map((e:any, index: number) => <Stage key={index} stage={e} />)}
-  </Row>;
+  const stages = useSelector((state: IState) => state.data.stages);
+  return (
+    <Row className={styles.stages}>
+      {stages.map((e: IStageItem, index: number) => (
+        <Stage key={index} stage={e} />
+      ))}
+    </Row>
+  );
 };
 type Props = {
-  stage: any;
+  stage: IStageItem;
 };
 
 export const Stage: React.FC<Props> = ({ stage }) => {
   return (
     <div className={styles.stages__item}>
       <img
-        src={stage.icon}
+        src={process.env.PUBLIC_URL + stage.icon}
         alt="Телефон"
         className={styles.stages__icon}
       />

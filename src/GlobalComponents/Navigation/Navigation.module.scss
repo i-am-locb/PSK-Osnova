@@ -1,3 +1,4 @@
+@use "../../GlobalStyles/base.scss" as base;
 .navigation {
   width: 50%;
   height: 100vh;
@@ -28,7 +29,7 @@
       height: calc(100% - 4em);
       margin-top: 1em;
       border-radius: 0.2em;
-      background-color: rgba(255, 255, 255, 0.2);
+      background-color: base.$alpha-03;
     }
 
     &.navigation__list_first::after {
@@ -78,7 +79,7 @@
       padding-right: 1em;
       font-size: 1.5rem;
       color: rgba(255, 255, 255, 0.6);
-      text-shadow: 0 0 5px rgba(0, 0, 0.2);
+      text-shadow: base.$text-shadow;
       pointer-events: all;
       cursor: pointer;
       text-decoration: none;

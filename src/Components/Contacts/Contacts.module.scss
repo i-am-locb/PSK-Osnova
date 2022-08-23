@@ -1,3 +1,4 @@
+@use "../../GlobalStyles/base.scss" as base;
 .contacts {
   padding: 7em 2em;
   margin: 0;
@@ -16,13 +17,13 @@
     margin-left: 1em;
     flex-grow: 1;
     padding: 2em;
-    background: rgba(255, 255, 255, 0.1);
-    box-shadow: 0 5px 5px rgba(0, 0, 0.2);
+    background: base.$alpha-01;
+    box-shadow: base.$box-shadow;
     border-radius: 30px;
     display: flex;
     flex-direction: column;
     justify-content: space-around;
-    text-shadow: 2px 2px 2px rgb(0, 0, 0);
+    text-shadow: base.$text-shadow;
   }
   &__title {
     margin-bottom: 0.2em;

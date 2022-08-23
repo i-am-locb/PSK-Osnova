@@ -1,9 +1,10 @@
+@use "../../../GlobalStyles/base.scss" as base;
 .slider__item {
   width: 64.375em;
   height: 11.875em;
   padding: 1.25em 0 1.625em 1.875em;
   border-radius: 0.625em;
-  background: rgba(255, 255, 255, 0.3);
+  background: base.$alpha-03;
   display: flex;
   justify-content: flex-start;
   align-items: center;
@@ -28,6 +29,13 @@
     height: 1px;
     border-radius: 0.625em;
     overflow: hidden;
+    & picture {
+      display: inline-block;
+      position: relative;
+      top: 0;
+      width: 100%;
+      height: 100%;
+    }
     & img {
       position: relative;
       top: 0;
@@ -43,16 +51,35 @@
     z-index: 1;
     text-shadow: 0 0px 7px rgba(0, 0, 0);
   }
-  & .slider__closeButton {
-    position: absolute;
-    top: 0.625em;
-    right: 0.625em;
-    border-radius: 0.625em;
-    padding: 0.31em;
-    font-size: 0.75em;
+  & .closeButton {
     opacity: 0;
     display: block;
-    transition: all 0.3s ease-in-out;
+    position: absolute;
+    top: 1em;
+    right: 1em;
+    width: 30px;
+    z-index: 1;
+    transform-origin: top right;
+    &:before,
+    &:after,
+    & div {
+      background: rgba(255, 255, 255);
+      content: "";
+      display: block;
+      height: 6px;
+      border-radius: 3px;
+      margin: 7px 0;
+      transition: 0.5s;
+    }
+    &:before {
+      transform: translateY(12px) rotate(135deg);
+    }
+    &:after {
+      transform: translateY(-12px) rotate(-135deg);
+    }
+    & div {
+      transform: scale(0);
+    }
   }
   & .slider__description {
     display: none;
@@ -74,7 +101,7 @@
     flex-direction: column;
     justify-content: flex-end;
     padding: 2em;
-    & .slider__closeButton {
+    & .closeButton {
       opacity: 1;
     }
     & .slider__img {
@@ -83,12 +110,13 @@
       flex-direction: row;
       align-items: center;
       // overflow: auto;
-
-      & img{
+      & picture {
+        transition: all 0.1s linear;
         min-width: 100%;
-        // transform: translateX(-500%);
-        transition: all .1s linear;
-
+      }
+      & img {
+        min-width: 100%;
+        transition: all 0.1s linear;
       }
     }
     & .slider__title {

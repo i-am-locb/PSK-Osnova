@@ -4,9 +4,16 @@ import styles from "./MirrorButton.module.scss";
 type Props = {
   text: string;
   as?: any;
+  newStateValue?: any;
+  setStateValue?: any;
 };
 
-export const MirrorButton: React.FC<Props> = ({ text, as = undefined }) => {
+export const MirrorButton: React.FC<Props> = ({
+  text,
+  as = undefined,
+  newStateValue = undefined,
+  setStateValue = undefined,
+}) => {
   return (
     <>
       {as != undefined ? (
@@ -22,7 +29,14 @@ export const MirrorButton: React.FC<Props> = ({ text, as = undefined }) => {
           {text}
         </Link>
       ) : (
-        <a href="#" className={styles.button}>
+        <a
+          href="#"
+          className={styles.button}
+          onClick={() => {
+            console.log("tyt");
+            setStateValue(newStateValue);
+          }}
+        >
           <span></span>
           <span></span>
           <span></span>

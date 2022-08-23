@@ -1,7 +1,8 @@
 import gsap from "gsap";
-import { useEffect, useRef, useState } from "react";
+import React, { useEffect, useRef, useState } from "react";
 import { Col, Row } from "react-bootstrap";
 import { useSelector } from "react-redux";
+import { IServiceItem, IState } from "../../../types";
 import { SliderItem } from "../SliderItem/SliderItem";
 import styles from "./Species.module.scss";
 
@@ -11,16 +12,15 @@ type Props = {
 };
 
 export const Species: React.FC<Props> = ({ scrollable, setScrollable }) => {
-
-  const species = useSelector((state:any) => state.data.services)
+  const species = useSelector((state: IState) => state.data.services);
 
   const array1 = useRef<HTMLDivElement>(null);
   const [scrollStop, setScrollStop] = useState(false);
   const [scrollDirection, setScrollDirection] = useState("down");
   const [array, setArray] = useState<Array<HTMLDivElement | null>>([]);
-  const buff: any = [];
+  const buff: any[] = [];
 
-  const sortArray = (e: any, array: any) => {
+  const sortArray = (e:React.WheelEvent, array: Array<HTMLDivElement | null>) => {
     if (window.innerWidth > 992) {
       setScrollStop(true);
       if (!scrollStop) {
@@ -210,15 +210,19 @@ export const Species: React.FC<Props> = ({ scrollable, setScrollable }) => {
           className={styles.slider}
           onMouseEnter={() => setScrollable(false)}
           onMouseLeave={() => setScrollable(true)}
-          onWheel={!scrollStop ? (e) => sortArray(e, array) : undefined}
+          onWheel={!scrollStop ? (e: React.WheelEvent) => sortArray(e, array) : undefined}
         >
           {/* <h3 className={styles.slider__name}>Виды работ</h3> */}
 
-          {
-            species.map((e:any, index: number) => (
-              <SliderItem key={index} species={e} array1={array1} buff={buff} setArray={setArray} />
-            ))
-          }
+          {species.map((e: IServiceItem, index: number) => (
+            <SliderItem
+              key={index}
+              species={e}
+              array1={array1}
+              buff={buff}
+              setArray={setArray}
+            />
+          ))}
         </div>
       </div>
     </Row>

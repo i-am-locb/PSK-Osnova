@@ -29,7 +29,7 @@
   &:before,
   &:after,
   & div {
-    background: rgba(255, 255, 255, 0.3);
+    background: base.$alpha-03;
     content: "";
     display: block;
     height: 6px;

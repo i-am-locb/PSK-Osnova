@@ -1,59 +1,86 @@
+import { AnyAction } from "redux";
 import { dataAPI } from "../../API/API";
-const SET_COMPANY = "SET_COMPANY";
-const SET_SERVICES = "SET_SERVICES";
-const SET_PRICES = "SET_PRICES";
-const SET_CONTACTS = "SET_CONTACTS";
-const SET_STAGES = "SET_STAGES";
-const SET_IS_DATA_LOAD = "SET_IS_DATA_LOAD"
+import {
+  DataActionTypes,
+  ICompany,
+  IContacts,
+  IData,
+  IPrices,
+  IResponse,
+  IServices,
+  IStages,
+} from "../../types";
 
+import { AppDispatch } from "../Store";
 
+export const SET_COMPANY = "SET_COMPANY";
+export const SET_SERVICES = "SET_SERVICES";
+export const SET_PRICES = "SET_PRICES";
+export const SET_CONTACTS = "SET_CONTACTS";
+export const SET_STAGES = "SET_STAGES";
+export const SET_IS_DATA_LOAD = "SET_IS_DATA_LOAD";
 
-let initialState: any = {
-  company: {},
+type stateData = IData;
+
+let initialState: stateData = {
+  company: {
+    name: "",
+    title: "",
+    description: "",
+    production: "",
+  },
   services: [],
   prices: [],
-  contacts: {},
+  contacts: {
+    address: "",
+    email: "",
+    phones: [""],
+    schedule: { days: "", time: "" },
+  },
   stages: [],
-  isDataLoad: true,
+  isDataLoad: false,
 };
 
-const dataReducer = (state = initialState, action: any) => {
+const dataReducer = (
+  state = initialState,
+  action: DataActionTypes
+): stateData => {
   switch (action.type) {
     case SET_COMPANY: {
       return {
         ...state,
-        company: {...action.company}
-      }
+        company: { ...action.company },
+      };
     }
     case SET_SERVICES: {
       return {
         ...state,
-        services: [...action.services]
-      }
+        services: [...action.services],
+      };
     }
     case SET_PRICES: {
       return {
         ...state,
-        prices: [...action.prices]
-      }
+        prices: [...action.prices],
+      };
     }
     case SET_CONTACTS: {
       return {
         ...state,
-        contacts: {...action.contacts}
-      }
+        contacts: { ...action.contacts },
+      };
     }
     case SET_STAGES: {
       return {
         ...state,
-        stages: [...action.stages]
-      }
+        stages: [...action.stages],
+      };
     }
     case SET_IS_DATA_LOAD: {
       return {
         ...state,
-        isDataLoad: action.isDataLoad
-      }
+        isDataLoad: action.isDataLoad,
+      };
     }
 
     default: {
@@ -62,15 +89,33 @@ const dataReducer = (state = initialState, action: any) => {
   }
 };
 
-export const setCompany = (company: any) => ({ type: SET_COMPANY, company });
-export const setServices = (services: any) => ({ type: SET_SERVICES, services });
-export const setPrices = (prices: any) => ({ type: SET_PRICES, prices });
-export const setContacts = (contacts: any) => ({ type: SET_CONTACTS, contacts });
-export const setStages = (stages: any) => ({ type: SET_STAGES, stages });
-export const setIsDataLoad = (isDataLoad: boolean) => ({ type: SET_IS_DATA_LOAD, isDataLoad });
+export const setCompany = (company: ICompany): DataActionTypes => ({
+  type: SET_COMPANY,
+  company,
+});
+export const setServices = (services: IServices): DataActionTypes => ({
+  type: SET_SERVICES,
+  services,
+});
+export const setPrices = (prices: IPrices): DataActionTypes => ({
+  type: SET_PRICES,
+  prices,
+});
+export const setContacts = (contacts: IContacts): DataActionTypes => ({
+  type: SET_CONTACTS,
+  contacts,
+});
+export const setStages = (stages: IStages): DataActionTypes => ({
+  type: SET_STAGES,
+  stages,
+});
+export const setIsDataLoad = (isDataLoad: boolean): DataActionTypes => ({
+  type: SET_IS_DATA_LOAD,
+  isDataLoad,
+});
 
-export const getData = () => (dispatch: any) => {
-  dataAPI.getData().then((response: any) => {
+export const getData = () => (dispatch: AppDispatch) => {
+  dataAPI.getData().then((response: IResponse) => {
     dispatch(setCompany(response.data.company));
     dispatch(setServices(response.data.services));
     dispatch(setPrices(response.data.prices));

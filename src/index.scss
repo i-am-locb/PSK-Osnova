@@ -1,4 +1,4 @@
-@use "./GlobalStyles/base.scss" as base;
+
 
 html {
   box-sizing: border-box;
@@ -17,8 +17,8 @@ html body {
     "Droid Sans", "Helvetica Neue", sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  color: base.$main-text-color;
-  background-color: base.$color-tomato;
+  color: #fff;
+  background-color: transparent;
   font-size: 1em;
 }
 // body {

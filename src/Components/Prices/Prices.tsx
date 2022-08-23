@@ -3,16 +3,17 @@ import { Row } from "react-bootstrap";
 import { useSelector } from "react-redux";
 import { Footer } from "../../GlobalComponents/Footer/Footer";
 import { Header } from "../../GlobalComponents/Header/Header";
+import { IPriceItem, IPriceItemList, IState } from "../../types";
 import styles from "./Prices.module.scss";
 
 export const Prices = () => {
-  const prices = useSelector((state: any) => state.data.prices);
+  const prices = useSelector((state: IState) => state.data.prices);
   return (
     <Row className={styles.prices}>
       <Header />
       <section className={styles.prices__section}>
-        {prices.map((e: any) => (
-          <Table price={e} key={e.id} />
+        {prices.map((e: IPriceItem) => (
+          <Table price={e} key={e.title} />
         ))}
       </section>
       <Footer />
@@ -21,12 +22,10 @@ export const Prices = () => {
 };
 
 type Props = {
-  price: any;
+  price: IPriceItem;
 };
 
 const Table: React.FC<Props> = ({ price }) => {
-  // console.log(price.Heads);
-
   const [isActive, setIsActive] = useState(false);
   const toggleIsActive = () => {
     setIsActive(!isActive);
@@ -69,13 +68,13 @@ const Table: React.FC<Props> = ({ price }) => {
         <table>
           <thead>
             <tr>
-              {price.Heads.map((e: any) => (
+              {price.heads.map((e: string) => (
                 <th scope="col">{e}</th>
               ))}
             </tr>
           </thead>
           <tbody>
-            {price.list.map((e: any) => (
+            {price.list.map((e: IPriceItemList) => (
               <tr>
                 {e.name != undefined ? <td>{e.name}</td> : undefined}
                 {e.color != undefined ? <td>{e.color}</td> : undefined}

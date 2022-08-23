@@ -1,5 +1,6 @@
 import styles from "./BackGround.module.scss";
 
+
 export const BackGround = () => {
   return (
     <div className={styles.wrapper}>
@@ -10,7 +11,7 @@ export const BackGround = () => {
         loop={true}
         muted={true}
       >
-        <source src="/Video/BGVideo.mp4" type="video/mp4" />
+        <source src={process.env.PUBLIC_URL + "/Video/BGVideo.webm"} type="video/webm" />
       </video>
     </div>
   );

@@ -1,3 +1,4 @@
+@use "../../GlobalStyles/base.scss" as base;
 .prices {
   padding: 7em 2em;
   margin: 0;
@@ -25,29 +26,29 @@
       background: none;
     }
     &::-webkit-scrollbar-thumb {
-      background-color: rgba(255, 255, 255, 0.1);
+      background-color: base.$alpha-01;
       border-radius: 0.625em;
     }
     &::-webkit-scrollbar-thumb:hover {
-      background-color: rgba(255, 255, 255, 0.3);
+      background-color: base.$alpha-03;
     }
   }
 }
 
 .table {
   margin-bottom: 0.5em;
-  text-shadow: 2px 2px 3px rgba(0, 0, 0.2);
+  text-shadow: base.$text-shadow;
   &__titles {
     cursor: pointer;
     padding: 0.2em;
     transition: all 0.5s ease-in-out;
     &:hover {
-      background-color: rgba(255, 255, 255, 0.1);
+      background-color: base.$alpha-01;
     }
     &_active {
       background: #f3f3f383;
       &:hover {
-        background-color: rgba(255, 255, 255, 0.5);
+        background-color: base.$alpha-03;
       }
     }
   }
@@ -74,7 +75,7 @@
     text-align: center;
   }
   &__wrapper {
-    background-color: rgba(255, 255, 255, 0.1);
+    background-color: base.$alpha-01;
     overflow: hidden;
     opacity: 0;
     max-height: 0;

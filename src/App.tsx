@@ -1,6 +1,5 @@
 import { useEffect } from "react";
 import "bootstrap/dist/css/bootstrap.min.css";
-import { Container, Row } from "react-bootstrap";
 import styles from "./App.module.scss";
 import { useSelector } from "react-redux";
 import { getData } from "./Redux/Data/data_reducer";
@@ -13,13 +12,17 @@ import { About } from "./Components/About/About";
 import { Services } from "./Components/Services/Sevices";
 import { Prices } from "./Components/Prices/Prices";
 import { Contacts } from "./Components/Contacts/Contacts";
+import { Container } from "react-bootstrap";
+import { IState } from "./types";
 
 function App() {
   const dispatch = useAppDispatch();
-  const isDataLoad = useSelector((state: any) => state.data.isDataLoad);
+  const isDataLoad = useSelector((state: IState) => state.data.isDataLoad);
 
   useEffect(() => {
+    if(!isDataLoad) {
     dispatch(getData());
+    }
   }, []);
 
   return (

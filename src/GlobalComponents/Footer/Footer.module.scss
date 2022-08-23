@@ -1,7 +1,8 @@
+@use "../../GlobalStyles/base.scss" as base;
 .footer {
   width: 100%;
   padding:  1em 2em;
-  background: rgba(255, 255, 255, 0.1);
+  background: base.$alpha-01;
   box-shadow: 5px 0 5px rgb(0 0 0);
   position: absolute;
   bottom: 0;

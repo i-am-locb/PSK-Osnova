@@ -1,9 +1,10 @@
+@use "../../GlobalStyles/base.scss" as base;
 .feedback {
   font-size: 1rem;
   max-width: 1150px;
   padding: 2em;
-  background: rgba(255, 255, 255, 0.1);
-  box-shadow: 0 5px 5px rgba(0, 0, 0.2);
+  background: base.$alpha-01;
+  box-shadow: base.$box-shadow;
   border-radius: 2em;
   display: flex;
   flex-direction: column;
@@ -22,7 +23,7 @@
     }
     &_active {
       & > a {
-        background: rgba(255, 255, 255, 0.1);
+        background: base.$alpha-01;
         box-shadow: 0 5px 5px rgb(0 0 0);
         pointer-events: all;
       }
@@ -78,10 +79,6 @@
         width: 50%;
         font-size: 1.5em;
       }
-    }
-    &__title {
-      // margin-bottom: 1em;
-      // font-size: 7em;
     }
     &__textArea {
       resize: none;
