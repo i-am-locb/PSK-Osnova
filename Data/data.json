@@ -11,19 +11,110 @@
       "title": "Бескаркасные стеклянные перегородки",
       "description": "Перегородки выполняются из закалённого, высокопрочного стекла (высотой до 6 метров, шириной до 3 метров при толщине от 8 до12 мм) и зажимного профиля. Стеклянные панели крепятся к стенам при помощи коннекторов. Стекла соединяются между собой с помощью тех же коннекторов, либо «стык в стык», что создаёт эффект целостности конструкции. Стекло панелей может быть полностью прозрачным или матовым, а так же тонированным в своей массе или зеркальным. Возможно нанесение различных рисунков на поверхность, с помощью химической или пескоструйной обработки стекла. Так же производим нанесение на поверхность бронирующих и архитектурных плёночных покрытий. /br В производстве стеклянных конструкций используем качественную фурнитуру таких известных марок как: DORMA, TITAN, KIN LONG, Stanley GMT, SADEV, ORMAN. /br Осуществляем постгарантийное обслуживание конструкций и механизмов.",
       "photos": [
-        "/Photos/Services/Frameless/Frameless_1.png",
-        "/Photos/Services/Frameless/Frameless_2.png",
-        "/Photos/Services/Frameless/Frameless_3.png",
-        "/Photos/Services/Frameless/Frameless_4.png",
-        "/Photos/Services/Frameless/Frameless_5.png",
-        "/Photos/Services/Frameless/Frameless_6.png",
-        "/Photos/Services/Frameless/Frameless_7.png",
-        "/Photos/Services/Frameless/Frameless_8.png",
-        "/Photos/Services/Frameless/Frameless_9.png",
-        "/Photos/Services/Frameless/Frameless_10.png",
-        "/Photos/Services/Frameless/Frameless_11.png",
-        "/Photos/Services/Frameless/Frameless_12.png",
-        "/Photos/Services/Frameless/Frameless_13.png"
+        {
+          "xs": "/Photos/Services/Frameless/XS_Frameless_01.webp",
+          "s": "/Photos/Services/Frameless/S_Frameless_01.webp",
+          "m": "/Photos/Services/Frameless/M_Frameless_01.webp",
+          "l": "/Photos/Services/Frameless/L_Frameless_01.webp",
+          "xl": "/Photos/Services/Frameless/XL_Frameless_01.webp",
+          "xxl": "/Photos/Services/Frameless/XXL_Frameless_01.webp"
+        },
+        {
+          "xs": "/Photos/Services/Frameless/XS_Frameless_02.webp",
+          "s": "/Photos/Services/Frameless/S_Frameless_02.webp",
+          "m": "/Photos/Services/Frameless/M_Frameless_02.webp",
+          "l": "/Photos/Services/Frameless/L_Frameless_02.webp",
+          "xl": "/Photos/Services/Frameless/XL_Frameless_02.webp",
+          "xxl": "/Photos/Services/Frameless/XXL_Frameless_02.webp"
+        },
+        {
+          "xs": "/Photos/Services/Frameless/XS_Frameless_03.webp",
+          "s": "/Photos/Services/Frameless/S_Frameless_03.webp",
+          "m": "/Photos/Services/Frameless/M_Frameless_03.webp",
+          "l": "/Photos/Services/Frameless/L_Frameless_03.webp",
+          "xl": "/Photos/Services/Frameless/XL_Frameless_03.webp",
+          "xxl": "/Photos/Services/Frameless/XXL_Frameless_03.webp"
+        },
+        {
+          "xs": "/Photos/Services/Frameless/XS_Frameless_04.webp",
+          "s": "/Photos/Services/Frameless/S_Frameless_04.webp",
+          "m": "/Photos/Services/Frameless/M_Frameless_04.webp",
+          "l": "/Photos/Services/Frameless/L_Frameless_04.webp",
+          "xl": "/Photos/Services/Frameless/XL_Frameless_04.webp",
+          "xxl": "/Photos/Services/Frameless/XXL_Frameless_04.webp"
+        },
+        {
+          "xs": "/Photos/Services/Frameless/XS_Frameless_05.webp",
+          "s": "/Photos/Services/Frameless/S_Frameless_05.webp",
+          "m": "/Photos/Services/Frameless/M_Frameless_05.webp",
+          "l": "/Photos/Services/Frameless/L_Frameless_05.webp",
+          "xl": "/Photos/Services/Frameless/XL_Frameless_05.webp",
+          "xxl": "/Photos/Services/Frameless/XXL_Frameless_05.webp"
+        },
+        {
+          "xs": "/Photos/Services/Frameless/XS_Frameless_06.webp",
+          "s": "/Photos/Services/Frameless/S_Frameless_06.webp",
+          "m": "/Photos/Services/Frameless/M_Frameless_06.webp",
+          "l": "/Photos/Services/Frameless/L_Frameless_06.webp",
+          "xl": "/Photos/Services/Frameless/XL_Frameless_06.webp",
+          "xxl": "/Photos/Services/Frameless/XXL_Frameless_06.webp"
+        },
+        {
+          "xs": "/Photos/Services/Frameless/XS_Frameless_07.webp",
+          "s": "/Photos/Services/Frameless/S_Frameless_07.webp",
+          "m": "/Photos/Services/Frameless/M_Frameless_07.webp",
+          "l": "/Photos/Services/Frameless/L_Frameless_07.webp",
+          "xl": "/Photos/Services/Frameless/XL_Frameless_07.webp",
+          "xxl": "/Photos/Services/Frameless/XXL_Frameless_07.webp"
+        },
+        {
+          "xs": "/Photos/Services/Frameless/XS_Frameless_08.webp",
+          "s": "/Photos/Services/Frameless/S_Frameless_08.webp",
+          "m": "/Photos/Services/Frameless/M_Frameless_08.webp",
+          "l": "/Photos/Services/Frameless/L_Frameless_08.webp",
+          "xl": "/Photos/Services/Frameless/XL_Frameless_08.webp",
+          "xxl": "/Photos/Services/Frameless/XXL_Frameless_08.webp"
+        },
+        {
+          "xs": "/Photos/Services/Frameless/XS_Frameless_09.webp",
+          "s": "/Photos/Services/Frameless/S_Frameless_09.webp",
+          "m": "/Photos/Services/Frameless/M_Frameless_09.webp",
+          "l": "/Photos/Services/Frameless/L_Frameless_09.webp",
+          "xl": "/Photos/Services/Frameless/XL_Frameless_09.webp",
+          "xxl": "/Photos/Services/Frameless/XXL_Frameless_09.webp"
+        },
+        {
+          "xs": "/Photos/Services/Frameless/XS_Frameless_10.webp",
+          "s": "/Photos/Services/Frameless/S_Frameless_10.webp",
+          "m": "/Photos/Services/Frameless/M_Frameless_10.webp",
+          "l": "/Photos/Services/Frameless/L_Frameless_10.webp",
+          "xl": "/Photos/Services/Frameless/XL_Frameless_10.webp",
+          "xxl": "/Photos/Services/Frameless/XXL_Frameless_10.webp"
+        },
+        {
+          "xs": "/Photos/Services/Frameless/XS_Frameless_11.webp",
+          "s": "/Photos/Services/Frameless/S_Frameless_11.webp",
+          "m": "/Photos/Services/Frameless/M_Frameless_11.webp",
+          "l": "/Photos/Services/Frameless/L_Frameless_11.webp",
+          "xl": "/Photos/Services/Frameless/XL_Frameless_11.webp",
+          "xxl": "/Photos/Services/Frameless/XXL_Frameless_11.webp"
+        },
+        {
+          "xs": "/Photos/Services/Frameless/XS_Frameless_12.webp",
+          "s": "/Photos/Services/Frameless/S_Frameless_12.webp",
+          "m": "/Photos/Services/Frameless/M_Frameless_12.webp",
+          "l": "/Photos/Services/Frameless/L_Frameless_12.webp",
+          "xl": "/Photos/Services/Frameless/XL_Frameless_12.webp",
+          "xxl": "/Photos/Services/Frameless/XXL_Frameless_12.webp"
+        },
+        {
+          "xs": "/Photos/Services/Frameless/XS_Frameless_13.webp",
+          "s": "/Photos/Services/Frameless/S_Frameless_13.webp",
+          "m": "/Photos/Services/Frameless/M_Frameless_13.webp",
+          "l": "/Photos/Services/Frameless/L_Frameless_13.webp",
+          "xl": "/Photos/Services/Frameless/XL_Frameless_13.webp",
+          "xxl": "/Photos/Services/Frameless/XXL_Frameless_13.webp"
+        }
       ]
     },
     {
@@ -31,15 +122,78 @@
       "title": "Сдвижные стеклянные перегородки",
       "description": "Сдвижные перегородки - это один из способов зонирования помещений, с возможностью моментальной трансформации, сочетающий в себе практичность, удобство и эстетику. Существуют прямые, сегментные и радиусные перегородки. Могут использоваться как в жилых, так и в офисных и торговых помещениях. Изготавливаются из ударопрочного закалённого стекла толщиной от 8 до 12 мм. и крепятся на направляющие с помощью зажимных алюминиевых элементов. При изготовлении перегородок может быть использовано как прозрачное, так и окрашенное, матированное или оклеенное плёнкой стекло./br Возможно нанесение рисунков или логотипов путём пескоструйной или химической обработки./brВ течение года, после ввода конструкций в эксплуатацию, осуществляем бесплатное обслуживание и регулировку всех механизмов системы.",
       "photos": [
-        "/Photos/Services/Sliding/Sliding_1.png",
-        "/Photos/Services/Sliding/Sliding_2.png",
-        "/Photos/Services/Sliding/Sliding_3.png",
-        "/Photos/Services/Sliding/Sliding_4.png",
-        "/Photos/Services/Sliding/Sliding_5.png",
-        "/Photos/Services/Sliding/Sliding_6.png",
-        "/Photos/Services/Sliding/Sliding_7.png",
-        "/Photos/Services/Sliding/Sliding_8.png",
-        "/Photos/Services/Sliding/Sliding_9.png"
+        {
+          "xs": "/Photos/Services/Sliding/XS_Sliding_01.webp",
+          "s": "/Photos/Services/Sliding/S_Sliding_01.webp",
+          "m": "/Photos/Services/Sliding/M_Sliding_01.webp",
+          "l": "/Photos/Services/Sliding/L_Sliding_01.webp",
+          "xl": "/Photos/Services/Sliding/XL_Sliding_01.webp",
+          "xxl": "/Photos/Services/Sliding/XXL_Sliding_01.webp"
+        },
+        {
+          "xs": "/Photos/Services/Sliding/XS_Sliding_02.webp",
+          "s": "/Photos/Services/Sliding/S_Sliding_02.webp",
+          "m": "/Photos/Services/Sliding/M_Sliding_02.webp",
+          "l": "/Photos/Services/Sliding/L_Sliding_02.webp",
+          "xl": "/Photos/Services/Sliding/XL_Sliding_02.webp",
+          "xxl": "/Photos/Services/Sliding/XXL_Sliding_02.webp"
+        },
+        {
+          "xs": "/Photos/Services/Sliding/XS_Sliding_03.webp",
+          "s": "/Photos/Services/Sliding/S_Sliding_03.webp",
+          "m": "/Photos/Services/Sliding/M_Sliding_03.webp",
+          "l": "/Photos/Services/Sliding/L_Sliding_03.webp",
+          "xl": "/Photos/Services/Sliding/XL_Sliding_03.webp",
+          "xxl": "/Photos/Services/Sliding/XXL_Sliding_03.webp"
+        },
+        {
+          "xs": "/Photos/Services/Sliding/XS_Sliding_04.webp",
+          "s": "/Photos/Services/Sliding/S_Sliding_04.webp",
+          "m": "/Photos/Services/Sliding/M_Sliding_04.webp",
+          "l": "/Photos/Services/Sliding/L_Sliding_04.webp",
+          "xl": "/Photos/Services/Sliding/XL_Sliding_04.webp",
+          "xxl": "/Photos/Services/Sliding/XXL_Sliding_04.webp"
+        },
+        {
+          "xs": "/Photos/Services/Sliding/XS_Sliding_05.webp",
+          "s": "/Photos/Services/Sliding/S_Sliding_05.webp",
+          "m": "/Photos/Services/Sliding/M_Sliding_05.webp",
+          "l": "/Photos/Services/Sliding/L_Sliding_05.webp",
+          "xl": "/Photos/Services/Sliding/XL_Sliding_05.webp",
+          "xxl": "/Photos/Services/Sliding/XXL_Sliding_05.webp"
+        },
+        {
+          "xs": "/Photos/Services/Sliding/XS_Sliding_06.webp",
+          "s": "/Photos/Services/Sliding/S_Sliding_06.webp",
+          "m": "/Photos/Services/Sliding/M_Sliding_06.webp",
+          "l": "/Photos/Services/Sliding/L_Sliding_06.webp",
+          "xl": "/Photos/Services/Sliding/XL_Sliding_06.webp",
+          "xxl": "/Photos/Services/Sliding/XXL_Sliding_06.webp"
+        },
+        {
+          "xs": "/Photos/Services/Sliding/XS_Sliding_07.webp",
+          "s": "/Photos/Services/Sliding/S_Sliding_07.webp",
+          "m": "/Photos/Services/Sliding/M_Sliding_07.webp",
+          "l": "/Photos/Services/Sliding/L_Sliding_07.webp",
+          "xl": "/Photos/Services/Sliding/XL_Sliding_07.webp",
+          "xxl": "/Photos/Services/Sliding/XXL_Sliding_07.webp"
+        },
+        {
+          "xs": "/Photos/Services/Sliding/XS_Sliding_08.webp",
+          "s": "/Photos/Services/Sliding/S_Sliding_08.webp",
+          "m": "/Photos/Services/Sliding/M_Sliding_08.webp",
+          "l": "/Photos/Services/Sliding/L_Sliding_08.webp",
+          "xl": "/Photos/Services/Sliding/XL_Sliding_08.webp",
+          "xxl": "/Photos/Services/Sliding/XXL_Sliding_08.webp"
+        },
+        {
+          "xs": "/Photos/Services/Sliding/XS_Sliding_09.webp",
+          "s": "/Photos/Services/Sliding/S_Sliding_09.webp",
+          "m": "/Photos/Services/Sliding/M_Sliding_09.webp",
+          "l": "/Photos/Services/Sliding/L_Sliding_09.webp",
+          "xl": "/Photos/Services/Sliding/XL_Sliding_09.webp",
+          "xxl": "/Photos/Services/Sliding/XXL_Sliding_09.webp"
+        }
       ]
     },
     {
@@ -47,12 +201,54 @@
       "title": "Каркасные стеклянные перегородки",
       "description": "Каркасные стеклянные перегородки - это экономичный, быстрый и в то же время эстетичный вариант организации внутреннего пространства помещений. Силовым элементом этих перегородок служит каркас из алюминиевого или ПВХ профиля. В качестве заполнителя секций используются различные виды стекла или стеклопакета, в зависимости от назначения перегородок. Возможно комбинированное заполнение проёмов с использованием сэндвич панелей или гипсокартона.",
       "photos": [
-        "/Photos/Services/Сarcass/Сarcass_1.png",
-        "/Photos/Services/Сarcass/Сarcass_2.png",
-        "/Photos/Services/Сarcass/Сarcass_3.png",
-        "/Photos/Services/Сarcass/Сarcass_4.png",
-        "/Photos/Services/Сarcass/Сarcass_5.png",
-        "/Photos/Services/Сarcass/Сarcass_6.png"
+        {
+          "xs": "/Photos/Services/Сarcass/XS_Сarcass_01.webp",
+          "s": "/Photos/Services/Сarcass/S_Сarcass_01.webp",
+          "m": "/Photos/Services/Сarcass/M_Сarcass_01.webp",
+          "l": "/Photos/Services/Сarcass/L_Сarcass_01.webp",
+          "xl": "/Photos/Services/Сarcass/XL_Сarcass_01.webp",
+          "xxl": "/Photos/Services/Сarcass/XXL_Сarcass_01.webp"
+        },
+        {
+          "xs": "/Photos/Services/Сarcass/XS_Сarcass_02.webp",
+          "s": "/Photos/Services/Сarcass/S_Сarcass_02.webp",
+          "m": "/Photos/Services/Сarcass/M_Сarcass_02.webp",
+          "l": "/Photos/Services/Сarcass/L_Сarcass_02.webp",
+          "xl": "/Photos/Services/Сarcass/XL_Сarcass_02.webp",
+          "xxl": "/Photos/Services/Сarcass/XXL_Сarcass_02.webp"
+        },
+        {
+          "xs": "/Photos/Services/Сarcass/XS_Сarcass_03.webp",
+          "s": "/Photos/Services/Сarcass/S_Сarcass_03.webp",
+          "m": "/Photos/Services/Сarcass/M_Сarcass_03.webp",
+          "l": "/Photos/Services/Сarcass/L_Сarcass_03.webp",
+          "xl": "/Photos/Services/Сarcass/XL_Сarcass_03.webp",
+          "xxl": "/Photos/Services/Сarcass/XXL_Сarcass_03.webp"
+        },
+        {
+          "xs": "/Photos/Services/Сarcass/XS_Сarcass_04.webp",
+          "s": "/Photos/Services/Сarcass/S_Сarcass_04.webp",
+          "m": "/Photos/Services/Сarcass/M_Сarcass_04.webp",
+          "l": "/Photos/Services/Сarcass/L_Сarcass_04.webp",
+          "xl": "/Photos/Services/Сarcass/XL_Сarcass_04.webp",
+          "xxl": "/Photos/Services/Сarcass/XXL_Сarcass_04.webp"
+        },
+        {
+          "xs": "/Photos/Services/Сarcass/XS_Сarcass_05.webp",
+          "s": "/Photos/Services/Сarcass/S_Сarcass_05.webp",
+          "m": "/Photos/Services/Сarcass/M_Сarcass_05.webp",
+          "l": "/Photos/Services/Сarcass/L_Сarcass_05.webp",
+          "xl": "/Photos/Services/Сarcass/XL_Сarcass_05.webp",
+          "xxl": "/Photos/Services/Сarcass/XXL_Сarcass_05.webp"
+        },
+        {
+          "xs": "/Photos/Services/Сarcass/XS_Сarcass_06.webp",
+          "s": "/Photos/Services/Сarcass/S_Сarcass_06.webp",
+          "m": "/Photos/Services/Сarcass/M_Сarcass_06.webp",
+          "l": "/Photos/Services/Сarcass/L_Сarcass_06.webp",
+          "xl": "/Photos/Services/Сarcass/XL_Сarcass_06.webp",
+          "xxl": "/Photos/Services/Сarcass/XXL_Сarcass_06.webp"
+        }
       ]
     },
     {
@@ -60,18 +256,102 @@
       "title": "Стеклянные ограждения и перила",
       "description": "Стеклянные ограждения и перила отлично подходят для оформления лестниц, террас, балконов как в торговых и офисных зданиях, таки в частных домах. Подобные конструкции отличаются визуально лёгким, воздушным дизайном, который эффектно вписывается в любой интерьер. Несмотря на кажущуюся хрупкость, ограждения из стекла обладают необходимой и достаточной прочностью. Изделия изготавливаются из закалённого стекла или многослойного закалённого стекла триплекс. Эти ограждения могут быть как самонесущими – бескаркасными, так и крепиться на металлических стойках. В зависимости от выбранного дизайна конструкции, ограждения могут комплектоваться перилами из нержавеющей стали, алюминия или дерева. Возможны комбинированные варианты./brСтоимость данного вида продукции зависит от множества вводных. Начиная архитектурным проектом и заканчивая прочностью конструкций, с которыми будет сопрягаться будущее ограждение. Поэтому окончательная цена формируется после детального технического просчёта изделия нашим конструктором.",
       "photos": [
-        "/Photos/Services/Parapet/Parapet_1.png",
-        "/Photos/Services/Parapet/Parapet_2.png",
-        "/Photos/Services/Parapet/Parapet_3.png",
-        "/Photos/Services/Parapet/Parapet_4.png",
-        "/Photos/Services/Parapet/Parapet_5.png",
-        "/Photos/Services/Parapet/Parapet_6.png",
-        "/Photos/Services/Parapet/Parapet_7.png",
-        "/Photos/Services/Parapet/Parapet_8.png",
-        "/Photos/Services/Parapet/Parapet_9.png",
-        "/Photos/Services/Parapet/Parapet_10.png",
-        "/Photos/Services/Parapet/Parapet_11.png",
-        "/Photos/Services/Parapet/Parapet_12.png"
+        {
+          "xs": "/Photos/Services/Parapet/XS_Parapet_01.webp",
+          "s": "/Photos/Services/Parapet/S_Parapet_01.webp",
+          "m": "/Photos/Services/Parapet/M_Parapet_01.webp",
+          "l": "/Photos/Services/Parapet/L_Parapet_01.webp",
+          "xl": "/Photos/Services/Parapet/XL_Parapet_01.webp",
+          "xxl": "/Photos/Services/Parapet/XXL_Parapet_01.webp"
+        },
+        {
+          "xs": "/Photos/Services/Parapet/XS_Parapet_02.webp",
+          "s": "/Photos/Services/Parapet/S_Parapet_02.webp",
+          "m": "/Photos/Services/Parapet/M_Parapet_02.webp",
+          "l": "/Photos/Services/Parapet/L_Parapet_02.webp",
+          "xl": "/Photos/Services/Parapet/XL_Parapet_02.webp",
+          "xxl": "/Photos/Services/Parapet/XXL_Parapet_02.webp"
+        },
+        {
+          "xs": "/Photos/Services/Parapet/XS_Parapet_03.webp",
+          "s": "/Photos/Services/Parapet/S_Parapet_03.webp",
+          "m": "/Photos/Services/Parapet/M_Parapet_03.webp",
+          "l": "/Photos/Services/Parapet/L_Parapet_03.webp",
+          "xl": "/Photos/Services/Parapet/XL_Parapet_03.webp",
+          "xxl": "/Photos/Services/Parapet/XXL_Parapet_03.webp"
+        },
+        {
+          "xs": "/Photos/Services/Parapet/XS_Parapet_04.webp",
+          "s": "/Photos/Services/Parapet/S_Parapet_04.webp",
+          "m": "/Photos/Services/Parapet/M_Parapet_04.webp",
+          "l": "/Photos/Services/Parapet/L_Parapet_04.webp",
+          "xl": "/Photos/Services/Parapet/XL_Parapet_04.webp",
+          "xxl": "/Photos/Services/Parapet/XXL_Parapet_04.webp"
+        },
+        {
+          "xs": "/Photos/Services/Parapet/XS_Parapet_05.webp",
+          "s": "/Photos/Services/Parapet/S_Parapet_05.webp",
+          "m": "/Photos/Services/Parapet/M_Parapet_05.webp",
+          "l": "/Photos/Services/Parapet/L_Parapet_05.webp",
+          "xl": "/Photos/Services/Parapet/XL_Parapet_05.webp",
+          "xxl": "/Photos/Services/Parapet/XXL_Parapet_05.webp"
+        },
+        {
+          "xs": "/Photos/Services/Parapet/XS_Parapet_06.webp",
+          "s": "/Photos/Services/Parapet/S_Parapet_06.webp",
+          "m": "/Photos/Services/Parapet/M_Parapet_06.webp",
+          "l": "/Photos/Services/Parapet/L_Parapet_06.webp",
+          "xl": "/Photos/Services/Parapet/XL_Parapet_06.webp",
+          "xxl": "/Photos/Services/Parapet/XXL_Parapet_06.webp"
+        },
+        {
+          "xs": "/Photos/Services/Parapet/XS_Parapet_07.webp",
+          "s": "/Photos/Services/Parapet/S_Parapet_07.webp",
+          "m": "/Photos/Services/Parapet/M_Parapet_07.webp",
+          "l": "/Photos/Services/Parapet/L_Parapet_07.webp",
+          "xl": "/Photos/Services/Parapet/XL_Parapet_07.webp",
+          "xxl": "/Photos/Services/Parapet/XXL_Parapet_07.webp"
+        },
+        {
+          "xs": "/Photos/Services/Parapet/XS_Parapet_08.webp",
+          "s": "/Photos/Services/Parapet/S_Parapet_08.webp",
+          "m": "/Photos/Services/Parapet/M_Parapet_08.webp",
+          "l": "/Photos/Services/Parapet/L_Parapet_08.webp",
+          "xl": "/Photos/Services/Parapet/XL_Parapet_08.webp",
+          "xxl": "/Photos/Services/Parapet/XXL_Parapet_08.webp"
+        },
+        {
+          "xs": "/Photos/Services/Parapet/XS_Parapet_09.webp",
+          "s": "/Photos/Services/Parapet/S_Parapet_09.webp",
+          "m": "/Photos/Services/Parapet/M_Parapet_09.webp",
+          "l": "/Photos/Services/Parapet/L_Parapet_09.webp",
+          "xl": "/Photos/Services/Parapet/XL_Parapet_09.webp",
+          "xxl": "/Photos/Services/Parapet/XXL_Parapet_09.webp"
+        },
+        {
+          "xs": "/Photos/Services/Parapet/XS_Parapet_10.webp",
+          "s": "/Photos/Services/Parapet/S_Parapet_10.webp",
+          "m": "/Photos/Services/Parapet/M_Parapet_10.webp",
+          "l": "/Photos/Services/Parapet/L_Parapet_10.webp",
+          "xl": "/Photos/Services/Parapet/XL_Parapet_10.webp",
+          "xxl": "/Photos/Services/Parapet/XXL_Parapet_10.webp"
+        },
+        {
+          "xs": "/Photos/Services/Parapet/XS_Parapet_11.webp",
+          "s": "/Photos/Services/Parapet/S_Parapet_11.webp",
+          "m": "/Photos/Services/Parapet/M_Parapet_11.webp",
+          "l": "/Photos/Services/Parapet/L_Parapet_11.webp",
+          "xl": "/Photos/Services/Parapet/XL_Parapet_11.webp",
+          "xxl": "/Photos/Services/Parapet/XXL_Parapet_11.webp"
+        },
+        {
+          "xs": "/Photos/Services/Parapet/XS_Parapet_12.webp",
+          "s": "/Photos/Services/Parapet/S_Parapet_12.webp",
+          "m": "/Photos/Services/Parapet/M_Parapet_12.webp",
+          "l": "/Photos/Services/Parapet/L_Parapet_12.webp",
+          "xl": "/Photos/Services/Parapet/XL_Parapet_12.webp",
+          "xxl": "/Photos/Services/Parapet/XXL_Parapet_12.webp"
+        }
       ]
     },
     {
@@ -79,20 +359,118 @@
       "title": "Стеклянные козырьки и навесы",
       "description": "Стеклянные козырьки и навесы из закалённого, ударопрочного стекла это ультрасовременный архитектурный элемент фасада здания. Прозрачные козырьки могут украсить строения, возведённые по современным стандартам и не испортить архитектурную композицию фасадов старинных особняков. Особо ценно это качество стеклянных навесных элементов при реконструкции памятников архитектуры. Неоспоримым преимуществом стеклянных козырьков и навесных конструкций из стекла является их светопропускная способность, при достаточной прочности./brМы изготавливаем и производим монтаж стеклянных козырьков и навесов из закалённого, ударопрочного стекла или композиции стёкол типа «триплекс» с дополнительным нанесением ударопрочного материала исключающего какой либо разлёт осколков при возникновении чрезвычайных ситуаций./brПри монтаже конструкции, мы предлагаем несколько вариантов крепления:/brконсольно в металлический профиль закреплённый к стене здания, без дополнительных связей и усиливающих элементов;/brвантовое крепление стеклянного козырька, посредством установки подвесной системы;/brна металлический каркас из нержавеющей стали любой формы и сечения профиля с дополнительными подвесными связями и растяжками;/brна независимую, цельносварную конструкцию из металла с дополнительными опорами./brВсе работы производим собственными силами и предоставляем гарантию – до 2х лет на монтажные работы. Осуществляем послегарантийное обслуживание наших конструкций.",
       "photos": [
-        "/Photos/Services/Canopy/Canopy_1.png",
-        "/Photos/Services/Canopy/Canopy_2.png",
-        "/Photos/Services/Canopy/Canopy_3.png",
-        "/Photos/Services/Canopy/Canopy_4.png",
-        "/Photos/Services/Canopy/Canopy_5.png",
-        "/Photos/Services/Canopy/Canopy_6.png",
-        "/Photos/Services/Canopy/Canopy_7.png",
-        "/Photos/Services/Canopy/Canopy_8.png",
-        "/Photos/Services/Canopy/Canopy_9.png",
-        "/Photos/Services/Canopy/Canopy_10.png",
-        "/Photos/Services/Canopy/Canopy_11.png",
-        "/Photos/Services/Canopy/Canopy_12.png",
-        "/Photos/Services/Canopy/Canopy_13.png",
-        "/Photos/Services/Canopy/Canopy_14.png"
+        {
+          "xs": "/Photos/Services/Canopy/XS_Canopy_01.webp",
+          "s": "/Photos/Services/Canopy/S_Canopy_01.webp",
+          "m": "/Photos/Services/Canopy/M_Canopy_01.webp",
+          "l": "/Photos/Services/Canopy/L_Canopy_01.webp",
+          "xl": "/Photos/Services/Canopy/XL_Canopy_01.webp",
+          "xxl": "/Photos/Services/Canopy/XXL_Canopy_01.webp"
+        },
+        {
+          "xs": "/Photos/Services/Canopy/XS_Canopy_02.webp",
+          "s": "/Photos/Services/Canopy/S_Canopy_02.webp",
+          "m": "/Photos/Services/Canopy/M_Canopy_02.webp",
+          "l": "/Photos/Services/Canopy/L_Canopy_02.webp",
+          "xl": "/Photos/Services/Canopy/XL_Canopy_02.webp",
+          "xxl": "/Photos/Services/Canopy/XXL_Canopy_02.webp"
+        },
+        {
+          "xs": "/Photos/Services/Canopy/XS_Canopy_03.webp",
+          "s": "/Photos/Services/Canopy/S_Canopy_03.webp",
+          "m": "/Photos/Services/Canopy/M_Canopy_03.webp",
+          "l": "/Photos/Services/Canopy/L_Canopy_03.webp",
+          "xl": "/Photos/Services/Canopy/XL_Canopy_03.webp",
+          "xxl": "/Photos/Services/Canopy/XXL_Canopy_03.webp"
+        },
+        {
+          "xs": "/Photos/Services/Canopy/XS_Canopy_04.webp",
+          "s": "/Photos/Services/Canopy/S_Canopy_04.webp",
+          "m": "/Photos/Services/Canopy/M_Canopy_04.webp",
+          "l": "/Photos/Services/Canopy/L_Canopy_04.webp",
+          "xl": "/Photos/Services/Canopy/XL_Canopy_04.webp",
+          "xxl": "/Photos/Services/Canopy/XXL_Canopy_04.webp"
+        },
+        {
+          "xs": "/Photos/Services/Canopy/XS_Canopy_05.webp",
+          "s": "/Photos/Services/Canopy/S_Canopy_05.webp",
+          "m": "/Photos/Services/Canopy/M_Canopy_05.webp",
+          "l": "/Photos/Services/Canopy/L_Canopy_05.webp",
+          "xl": "/Photos/Services/Canopy/XL_Canopy_05.webp",
+          "xxl": "/Photos/Services/Canopy/XXL_Canopy_05.webp"
+        },
+        {
+          "xs": "/Photos/Services/Canopy/XS_Canopy_06.webp",
+          "s": "/Photos/Services/Canopy/S_Canopy_06.webp",
+          "m": "/Photos/Services/Canopy/M_Canopy_06.webp",
+          "l": "/Photos/Services/Canopy/L_Canopy_06.webp",
+          "xl": "/Photos/Services/Canopy/XL_Canopy_06.webp",
+          "xxl": "/Photos/Services/Canopy/XXL_Canopy_06.webp"
+        },
+        {
+          "xs": "/Photos/Services/Canopy/XS_Canopy_07.webp",
+          "s": "/Photos/Services/Canopy/S_Canopy_07.webp",
+          "m": "/Photos/Services/Canopy/M_Canopy_07.webp",
+          "l": "/Photos/Services/Canopy/L_Canopy_07.webp",
+          "xl": "/Photos/Services/Canopy/XL_Canopy_07.webp",
+          "xxl": "/Photos/Services/Canopy/XXL_Canopy_07.webp"
+        },
+        {
+          "xs": "/Photos/Services/Canopy/XS_Canopy_08.webp",
+          "s": "/Photos/Services/Canopy/S_Canopy_08.webp",
+          "m": "/Photos/Services/Canopy/M_Canopy_08.webp",
+          "l": "/Photos/Services/Canopy/L_Canopy_08.webp",
+          "xl": "/Photos/Services/Canopy/XL_Canopy_08.webp",
+          "xxl": "/Photos/Services/Canopy/XXL_Canopy_08.webp"
+        },
+        {
+          "xs": "/Photos/Services/Canopy/XS_Canopy_09.webp",
+          "s": "/Photos/Services/Canopy/S_Canopy_09.webp",
+          "m": "/Photos/Services/Canopy/M_Canopy_09.webp",
+          "l": "/Photos/Services/Canopy/L_Canopy_09.webp",
+          "xl": "/Photos/Services/Canopy/XL_Canopy_09.webp",
+          "xxl": "/Photos/Services/Canopy/XXL_Canopy_09.webp"
+        },
+        {
+          "xs": "/Photos/Services/Canopy/XS_Canopy_10.webp",
+          "s": "/Photos/Services/Canopy/S_Canopy_10.webp",
+          "m": "/Photos/Services/Canopy/M_Canopy_10.webp",
+          "l": "/Photos/Services/Canopy/L_Canopy_10.webp",
+          "xl": "/Photos/Services/Canopy/XL_Canopy_10.webp",
+          "xxl": "/Photos/Services/Canopy/XXL_Canopy_10.webp"
+        },
+        {
+          "xs": "/Photos/Services/Canopy/XS_Canopy_11.webp",
+          "s": "/Photos/Services/Canopy/S_Canopy_11.webp",
+          "m": "/Photos/Services/Canopy/M_Canopy_11.webp",
+          "l": "/Photos/Services/Canopy/L_Canopy_11.webp",
+          "xl": "/Photos/Services/Canopy/XL_Canopy_11.webp",
+          "xxl": "/Photos/Services/Canopy/XXL_Canopy_11.webp"
+        },
+        {
+          "xs": "/Photos/Services/Canopy/XS_Canopy_12.webp",
+          "s": "/Photos/Services/Canopy/S_Canopy_12.webp",
+          "m": "/Photos/Services/Canopy/M_Canopy_12.webp",
+          "l": "/Photos/Services/Canopy/L_Canopy_12.webp",
+          "xl": "/Photos/Services/Canopy/XL_Canopy_12.webp",
+          "xxl": "/Photos/Services/Canopy/XXL_Canopy_12.webp"
+        },
+        {
+          "xs": "/Photos/Services/Canopy/XS_Canopy_13.webp",
+          "s": "/Photos/Services/Canopy/S_Canopy_13.webp",
+          "m": "/Photos/Services/Canopy/M_Canopy_13.webp",
+          "l": "/Photos/Services/Canopy/L_Canopy_13.webp",
+          "xl": "/Photos/Services/Canopy/XL_Canopy_13.webp",
+          "xxl": "/Photos/Services/Canopy/XXL_Canopy_13.webp"
+        },
+        {
+          "xs": "/Photos/Services/Canopy/XS_Canopy_14.webp",
+          "s": "/Photos/Services/Canopy/S_Canopy_14.webp",
+          "m": "/Photos/Services/Canopy/M_Canopy_14.webp",
+          "l": "/Photos/Services/Canopy/L_Canopy_14.webp",
+          "xl": "/Photos/Services/Canopy/XL_Canopy_14.webp",
+          "xxl": "/Photos/Services/Canopy/XXL_Canopy_14.webp"
+        }
       ]
     },
     {
@@ -100,16 +478,86 @@
       "title": "Душевые кабины",
       "description": "Душевые стеклянные кабины и перегородки являются уникальным дизайнерским решением оформления ванных комнат. Они практичны, функциональны, просты в уходе и самое главное – безопасные и долговечные. Изготавливаемые на заказ, могут перекрывать любую площадь при многообразии конфигураций. Для придания эксклюзивности, стеклянные поверхности могут быть затонированны, иметь матовую поверхность, или с нанесённым декоративным рисунком.",
       "photos": [
-        "/Photos/Services/Shower/Shower_1.png",
-        "/Photos/Services/Shower/Shower_2.png",
-        "/Photos/Services/Shower/Shower_3.png",
-        "/Photos/Services/Shower/Shower_4.png",
-        "/Photos/Services/Shower/Shower_5.png",
-        "/Photos/Services/Shower/Shower_6.png",
-        "/Photos/Services/Shower/Shower_7.png",
-        "/Photos/Services/Shower/Shower_8.png",
-        "/Photos/Services/Shower/Shower_9.png",
-        "/Photos/Services/Shower/Shower_10.png"
+        {
+          "xs": "/Photos/Services/Shower/XS_Shower_01.webp",
+          "s": "/Photos/Services/Shower/S_Shower_01.webp",
+          "m": "/Photos/Services/Shower/M_Shower_01.webp",
+          "l": "/Photos/Services/Shower/L_Shower_01.webp",
+          "xl": "/Photos/Services/Shower/XL_Shower_01.webp",
+          "xxl": "/Photos/Services/Shower/XXL_Shower_01.webp"
+        },
+        {
+          "xs": "/Photos/Services/Shower/XS_Shower_02.webp",
+          "s": "/Photos/Services/Shower/S_Shower_02.webp",
+          "m": "/Photos/Services/Shower/M_Shower_02.webp",
+          "l": "/Photos/Services/Shower/L_Shower_02.webp",
+          "xl": "/Photos/Services/Shower/XL_Shower_02.webp",
+          "xxl": "/Photos/Services/Shower/XXL_Shower_02.webp"
+        },
+        {
+          "xs": "/Photos/Services/Shower/XS_Shower_03.webp",
+          "s": "/Photos/Services/Shower/S_Shower_03.webp",
+          "m": "/Photos/Services/Shower/M_Shower_03.webp",
+          "l": "/Photos/Services/Shower/L_Shower_03.webp",
+          "xl": "/Photos/Services/Shower/XL_Shower_03.webp",
+          "xxl": "/Photos/Services/Shower/XXL_Shower_03.webp"
+        },
+        {
+          "xs": "/Photos/Services/Shower/XS_Shower_04.webp",
+          "s": "/Photos/Services/Shower/S_Shower_04.webp",
+          "m": "/Photos/Services/Shower/M_Shower_04.webp",
+          "l": "/Photos/Services/Shower/L_Shower_04.webp",
+          "xl": "/Photos/Services/Shower/XL_Shower_04.webp",
+          "xxl": "/Photos/Services/Shower/XXL_Shower_04.webp"
+        },
+        {
+          "xs": "/Photos/Services/Shower/XS_Shower_05.webp",
+          "s": "/Photos/Services/Shower/S_Shower_05.webp",
+          "m": "/Photos/Services/Shower/M_Shower_05.webp",
+          "l": "/Photos/Services/Shower/L_Shower_05.webp",
+          "xl": "/Photos/Services/Shower/XL_Shower_05.webp",
+          "xxl": "/Photos/Services/Shower/XXL_Shower_05.webp"
+        },
+        {
+          "xs": "/Photos/Services/Shower/XS_Shower_06.webp",
+          "s": "/Photos/Services/Shower/S_Shower_06.webp",
+          "m": "/Photos/Services/Shower/M_Shower_06.webp",
+          "l": "/Photos/Services/Shower/L_Shower_06.webp",
+          "xl": "/Photos/Services/Shower/XL_Shower_06.webp",
+          "xxl": "/Photos/Services/Shower/XXL_Shower_06.webp"
+        },
+        {
+          "xs": "/Photos/Services/Shower/XS_Shower_07.webp",
+          "s": "/Photos/Services/Shower/S_Shower_07.webp",
+          "m": "/Photos/Services/Shower/M_Shower_07.webp",
+          "l": "/Photos/Services/Shower/L_Shower_07.webp",
+          "xl": "/Photos/Services/Shower/XL_Shower_07.webp",
+          "xxl": "/Photos/Services/Shower/XXL_Shower_07.webp"
+        },
+        {
+          "xs": "/Photos/Services/Shower/XS_Shower_08.webp",
+          "s": "/Photos/Services/Shower/S_Shower_08.webp",
+          "m": "/Photos/Services/Shower/M_Shower_08.webp",
+          "l": "/Photos/Services/Shower/L_Shower_08.webp",
+          "xl": "/Photos/Services/Shower/XL_Shower_08.webp",
+          "xxl": "/Photos/Services/Shower/XXL_Shower_08.webp"
+        },
+        {
+          "xs": "/Photos/Services/Shower/XS_Shower_09.webp",
+          "s": "/Photos/Services/Shower/S_Shower_09.webp",
+          "m": "/Photos/Services/Shower/M_Shower_09.webp",
+          "l": "/Photos/Services/Shower/L_Shower_09.webp",
+          "xl": "/Photos/Services/Shower/XL_Shower_09.webp",
+          "xxl": "/Photos/Services/Shower/XXL_Shower_09.webp"
+        },
+        {
+          "xs": "/Photos/Services/Shower/XS_Shower_10.webp",
+          "s": "/Photos/Services/Shower/S_Shower_10.webp",
+          "m": "/Photos/Services/Shower/M_Shower_10.webp",
+          "l": "/Photos/Services/Shower/L_Shower_10.webp",
+          "xl": "/Photos/Services/Shower/XL_Shower_10.webp",
+          "xxl": "/Photos/Services/Shower/XXL_Shower_10.webp"
+        }
       ]
     },
     {
@@ -117,20 +565,118 @@
       "title": "Зеркальные панно и зеркала",
       "description": "Зеркальное панно это уникальный вид декора, способный подчеркнуть изысканность и богатство интерьера. Отражающий эффект зеркала позволяет с лёгкостью корректировать любые недостатки помещения, а разнообразие форм придаёт эксклюзивность. Собранное из зеркальных плиток разной формы, зеркальное панно – беспроигрышный вариант как в классическом, так и в эксклюзивном дизайне любого помещения. Отдельного внимания заслуживают зеркала нестандартных размеров. Их габариты могут доходить до 6 метров в высоту и 3 метров в ширину. Большие, крупногабаритные зеркала устанавливают не только в спортивных и танцевальных залах, большой популярностью они пользуются в торгово-развлекательных центрах, ресторанах, кинотеатрах и гостиницах. В последнее время их всё чаще заказывают в загородные особняки и фешенебельные городские апартаменты.",
       "photos": [
-        "/Photos/Services/Pano/Pano_1.png",
-        "/Photos/Services/Pano/Pano_2.png",
-        "/Photos/Services/Pano/Pano_3.png",
-        "/Photos/Services/Pano/Pano_4.png",
-        "/Photos/Services/Pano/Pano_5.png",
-        "/Photos/Services/Pano/Pano_6.png",
-        "/Photos/Services/Pano/Pano_7.png",
-        "/Photos/Services/Pano/Pano_8.png",
-        "/Photos/Services/Pano/Pano_9.png",
-        "/Photos/Services/Pano/Pano_10.png",
-        "/Photos/Services/Pano/Pano_11.png",
-        "/Photos/Services/Pano/Pano_12.png",
-        "/Photos/Services/Pano/Pano_13.png",
-        "/Photos/Services/Pano/Pano_14.png"
+        {
+          "xs": "/Photos/Services/Pano/XS_Pano_01.webp",
+          "s": "/Photos/Services/Pano/S_Pano_01.webp",
+          "m": "/Photos/Services/Pano/M_Pano_01.webp",
+          "l": "/Photos/Services/Pano/L_Pano_01.webp",
+          "xl": "/Photos/Services/Pano/XL_Pano_01.webp",
+          "xxl": "/Photos/Services/Pano/XXL_Pano_01.webp"
+        },
+        {
+          "xs": "/Photos/Services/Pano/XS_Pano_02.webp",
+          "s": "/Photos/Services/Pano/S_Pano_02.webp",
+          "m": "/Photos/Services/Pano/M_Pano_02.webp",
+          "l": "/Photos/Services/Pano/L_Pano_02.webp",
+          "xl": "/Photos/Services/Pano/XL_Pano_02.webp",
+          "xxl": "/Photos/Services/Pano/XXL_Pano_02.webp"
+        },
+        {
+          "xs": "/Photos/Services/Pano/XS_Pano_03.webp",
+          "s": "/Photos/Services/Pano/S_Pano_03.webp",
+          "m": "/Photos/Services/Pano/M_Pano_03.webp",
+          "l": "/Photos/Services/Pano/L_Pano_03.webp",
+          "xl": "/Photos/Services/Pano/XL_Pano_03.webp",
+          "xxl": "/Photos/Services/Pano/XXL_Pano_03.webp"
+        },
+        {
+          "xs": "/Photos/Services/Pano/XS_Pano_04.webp",
+          "s": "/Photos/Services/Pano/S_Pano_04.webp",
+          "m": "/Photos/Services/Pano/M_Pano_04.webp",
+          "l": "/Photos/Services/Pano/L_Pano_04.webp",
+          "xl": "/Photos/Services/Pano/XL_Pano_04.webp",
+          "xxl": "/Photos/Services/Pano/XXL_Pano_04.webp"
+        },
+        {
+          "xs": "/Photos/Services/Pano/XS_Pano_05.webp",
+          "s": "/Photos/Services/Pano/S_Pano_05.webp",
+          "m": "/Photos/Services/Pano/M_Pano_05.webp",
+          "l": "/Photos/Services/Pano/L_Pano_05.webp",
+          "xl": "/Photos/Services/Pano/XL_Pano_05.webp",
+          "xxl": "/Photos/Services/Pano/XXL_Pano_05.webp"
+        },
+        {
+          "xs": "/Photos/Services/Pano/XS_Pano_06.webp",
+          "s": "/Photos/Services/Pano/S_Pano_06.webp",
+          "m": "/Photos/Services/Pano/M_Pano_06.webp",
+          "l": "/Photos/Services/Pano/L_Pano_06.webp",
+          "xl": "/Photos/Services/Pano/XL_Pano_06.webp",
+          "xxl": "/Photos/Services/Pano/XXL_Pano_06.webp"
+        },
+        {
+          "xs": "/Photos/Services/Pano/XS_Pano_07.webp",
+          "s": "/Photos/Services/Pano/S_Pano_07.webp",
+          "m": "/Photos/Services/Pano/M_Pano_07.webp",
+          "l": "/Photos/Services/Pano/L_Pano_07.webp",
+          "xl": "/Photos/Services/Pano/XL_Pano_07.webp",
+          "xxl": "/Photos/Services/Pano/XXL_Pano_07.webp"
+        },
+        {
+          "xs": "/Photos/Services/Pano/XS_Pano_08.webp",
+          "s": "/Photos/Services/Pano/S_Pano_08.webp",
+          "m": "/Photos/Services/Pano/M_Pano_08.webp",
+          "l": "/Photos/Services/Pano/L_Pano_08.webp",
+          "xl": "/Photos/Services/Pano/XL_Pano_08.webp",
+          "xxl": "/Photos/Services/Pano/XXL_Pano_08.webp"
+        },
+        {
+          "xs": "/Photos/Services/Pano/XS_Pano_09.webp",
+          "s": "/Photos/Services/Pano/S_Pano_09.webp",
+          "m": "/Photos/Services/Pano/M_Pano_09.webp",
+          "l": "/Photos/Services/Pano/L_Pano_09.webp",
+          "xl": "/Photos/Services/Pano/XL_Pano_09.webp",
+          "xxl": "/Photos/Services/Pano/XXL_Pano_09.webp"
+        },
+        {
+          "xs": "/Photos/Services/Pano/XS_Pano_10.webp",
+          "s": "/Photos/Services/Pano/S_Pano_10.webp",
+          "m": "/Photos/Services/Pano/M_Pano_10.webp",
+          "l": "/Photos/Services/Pano/L_Pano_10.webp",
+          "xl": "/Photos/Services/Pano/XL_Pano_10.webp",
+          "xxl": "/Photos/Services/Pano/XXL_Pano_10.webp"
+        },
+        {
+          "xs": "/Photos/Services/Pano/XS_Pano_11.webp",
+          "s": "/Photos/Services/Pano/S_Pano_11.webp",
+          "m": "/Photos/Services/Pano/M_Pano_11.webp",
+          "l": "/Photos/Services/Pano/L_Pano_11.webp",
+          "xl": "/Photos/Services/Pano/XL_Pano_11.webp",
+          "xxl": "/Photos/Services/Pano/XXL_Pano_11.webp"
+        },
+        {
+          "xs": "/Photos/Services/Pano/XS_Pano_12.webp",
+          "s": "/Photos/Services/Pano/S_Pano_12.webp",
+          "m": "/Photos/Services/Pano/M_Pano_12.webp",
+          "l": "/Photos/Services/Pano/L_Pano_12.webp",
+          "xl": "/Photos/Services/Pano/XL_Pano_12.webp",
+          "xxl": "/Photos/Services/Pano/XXL_Pano_12.webp"
+        },
+        {
+          "xs": "/Photos/Services/Pano/XS_Pano_13.webp",
+          "s": "/Photos/Services/Pano/S_Pano_13.webp",
+          "m": "/Photos/Services/Pano/M_Pano_13.webp",
+          "l": "/Photos/Services/Pano/L_Pano_13.webp",
+          "xl": "/Photos/Services/Pano/XL_Pano_13.webp",
+          "xxl": "/Photos/Services/Pano/XXL_Pano_13.webp"
+        },
+        {
+          "xs": "/Photos/Services/Pano/XS_Pano_14.webp",
+          "s": "/Photos/Services/Pano/S_Pano_14.webp",
+          "m": "/Photos/Services/Pano/M_Pano_14.webp",
+          "l": "/Photos/Services/Pano/L_Pano_14.webp",
+          "xl": "/Photos/Services/Pano/XL_Pano_14.webp",
+          "xxl": "/Photos/Services/Pano/XXL_Pano_14.webp"
+        }
       ]
     },
     {
@@ -138,16 +684,86 @@
       "title": "Рольставни",
       "description": "Стоимость рольставен определяется множеством факторов среди них: тип профиля полотна, вариант механизма ручной или автоматический, тип управления и т.д. Только после согласования комплектации рольставен менеджер сможет сообщить клиенту конечную цену на рольставни. Средняя цена механических рольставен от 4500 руб./кв.м., стоимость автоматических рольставен начинается от 7000р./кв.м.",
       "photos": [
-        "/Photos/Services/Roller/Roller_1.png",
-        "/Photos/Services/Roller/Roller_2.png",
-        "/Photos/Services/Roller/Roller_3.png",
-        "/Photos/Services/Roller/Roller_4.png",
-        "/Photos/Services/Roller/Roller_5.png",
-        "/Photos/Services/Roller/Roller_6.png",
-        "/Photos/Services/Roller/Roller_7.png",
-        "/Photos/Services/Roller/Roller_8.png",
-        "/Photos/Services/Roller/Roller_9.png",
-        "/Photos/Services/Roller/Roller_10.png"
+        {
+          "xs": "/Photos/Services/Roller/XS_Roller_01.webp",
+          "s": "/Photos/Services/Roller/S_Roller_01.webp",
+          "m": "/Photos/Services/Roller/M_Roller_01.webp",
+          "l": "/Photos/Services/Roller/L_Roller_01.webp",
+          "xl": "/Photos/Services/Roller/XL_Roller_01.webp",
+          "xxl": "/Photos/Services/Roller/XXL_Roller_01.webp"
+        },
+        {
+          "xs": "/Photos/Services/Roller/XS_Roller_02.webp",
+          "s": "/Photos/Services/Roller/S_Roller_02.webp",
+          "m": "/Photos/Services/Roller/M_Roller_02.webp",
+          "l": "/Photos/Services/Roller/L_Roller_02.webp",
+          "xl": "/Photos/Services/Roller/XL_Roller_02.webp",
+          "xxl": "/Photos/Services/Roller/XXL_Roller_02.webp"
+        },
+        {
+          "xs": "/Photos/Services/Roller/XS_Roller_03.webp",
+          "s": "/Photos/Services/Roller/S_Roller_03.webp",
+          "m": "/Photos/Services/Roller/M_Roller_03.webp",
+          "l": "/Photos/Services/Roller/L_Roller_03.webp",
+          "xl": "/Photos/Services/Roller/XL_Roller_03.webp",
+          "xxl": "/Photos/Services/Roller/XXL_Roller_03.webp"
+        },
+        {
+          "xs": "/Photos/Services/Roller/XS_Roller_04.webp",
+          "s": "/Photos/Services/Roller/S_Roller_04.webp",
+          "m": "/Photos/Services/Roller/M_Roller_04.webp",
+          "l": "/Photos/Services/Roller/L_Roller_04.webp",
+          "xl": "/Photos/Services/Roller/XL_Roller_04.webp",
+          "xxl": "/Photos/Services/Roller/XXL_Roller_04.webp"
+        },
+        {
+          "xs": "/Photos/Services/Roller/XS_Roller_05.webp",
+          "s": "/Photos/Services/Roller/S_Roller_05.webp",
+          "m": "/Photos/Services/Roller/M_Roller_05.webp",
+          "l": "/Photos/Services/Roller/L_Roller_05.webp",
+          "xl": "/Photos/Services/Roller/XL_Roller_05.webp",
+          "xxl": "/Photos/Services/Roller/XXL_Roller_05.webp"
+        },
+        {
+          "xs": "/Photos/Services/Roller/XS_Roller_06.webp",
+          "s": "/Photos/Services/Roller/S_Roller_06.webp",
+          "m": "/Photos/Services/Roller/M_Roller_06.webp",
+          "l": "/Photos/Services/Roller/L_Roller_06.webp",
+          "xl": "/Photos/Services/Roller/XL_Roller_06.webp",
+          "xxl": "/Photos/Services/Roller/XXL_Roller_06.webp"
+        },
+        {
+          "xs": "/Photos/Services/Roller/XS_Roller_07.webp",
+          "s": "/Photos/Services/Roller/S_Roller_07.webp",
+          "m": "/Photos/Services/Roller/M_Roller_07.webp",
+          "l": "/Photos/Services/Roller/L_Roller_07.webp",
+          "xl": "/Photos/Services/Roller/XL_Roller_07.webp",
+          "xxl": "/Photos/Services/Roller/XXL_Roller_07.webp"
+        },
+        {
+          "xs": "/Photos/Services/Roller/XS_Roller_08.webp",
+          "s": "/Photos/Services/Roller/S_Roller_08.webp",
+          "m": "/Photos/Services/Roller/M_Roller_08.webp",
+          "l": "/Photos/Services/Roller/L_Roller_08.webp",
+          "xl": "/Photos/Services/Roller/XL_Roller_08.webp",
+          "xxl": "/Photos/Services/Roller/XXL_Roller_08.webp"
+        },
+        {
+          "xs": "/Photos/Services/Roller/XS_Roller_09.webp",
+          "s": "/Photos/Services/Roller/S_Roller_09.webp",
+          "m": "/Photos/Services/Roller/M_Roller_09.webp",
+          "l": "/Photos/Services/Roller/L_Roller_09.webp",
+          "xl": "/Photos/Services/Roller/XL_Roller_09.webp",
+          "xxl": "/Photos/Services/Roller/XXL_Roller_09.webp"
+        },
+        {
+          "xs": "/Photos/Services/Roller/XS_Roller_10.webp",
+          "s": "/Photos/Services/Roller/S_Roller_10.webp",
+          "m": "/Photos/Services/Roller/M_Roller_10.webp",
+          "l": "/Photos/Services/Roller/L_Roller_10.webp",
+          "xl": "/Photos/Services/Roller/XL_Roller_10.webp",
+          "xxl": "/Photos/Services/Roller/XXL_Roller_10.webp"
+        }
       ]
     },
     {
@@ -155,32 +771,214 @@
       "title": "Общестроительные и отделочные работы",
       "description": "Мы предлагаем заказчику комплексный подход с нашей стороны, что может существенно расширить рамки сотрудничества и при этом сократить издержки на производство, для обеих сторон./brЗа своё время деятельности, наша компания наработала необходимую и достаточную производственную базу. Штат укомплектован грамотными специалистами в области строительного производства. Основная стратегия нашей компании - применение новых технологий в области ремонта и строительства, основной принцип – постоянный поиск, движение вперед. Мы стараемся работать, опережая сегодняшнюю конъюнктуру рынка, но всегда с учетом интересов наших потребителей и их высоких требований, предъявляемых к качеству нашей конечной продукции. Мы работаем с постоянными поставщиками, строительные материалы которых прошли необходимую сертификацию, что дает гарантию качества и безопасность вашему здоровью. Компании и специалисты, привлекаемые нашей организацией для производства субподрядных и смежных работ, имеют необходимую квалификацию и длительный опыт в своей сфере деятельности./brОсновным принципом, на котором основана ценовая политика нашей компании, является оптимальное соотношение цены и качества конечного продукта.",
       "photos": [
-        "/Photos/Services/Works/Works_1.png",
-        "/Photos/Services/Works/Works_2.png",
-        "/Photos/Services/Works/Works_3.png",
-        "/Photos/Services/Works/Works_4.png",
-        "/Photos/Services/Works/Works_5.png",
-        "/Photos/Services/Works/Works_6.png",
-        "/Photos/Services/Works/Works_7.png",
-        "/Photos/Services/Works/Works_8.png",
-        "/Photos/Services/Works/Works_9.png",
-        "/Photos/Services/Works/Works_10.png",
-        "/Photos/Services/Works/Works_11.png",
-        "/Photos/Services/Works/Works_12.png",
-        "/Photos/Services/Works/Works_13.png",
-        "/Photos/Services/Works/Works_14.png",
-        "/Photos/Services/Works/Works_15.png",
-        "/Photos/Services/Works/Works_16.png",
-        "/Photos/Services/Works/Works_17.png",
-        "/Photos/Services/Works/Works_18.png",
-        "/Photos/Services/Works/Works_19.png",
-        "/Photos/Services/Works/Works_20.png",
-        "/Photos/Services/Works/Works_21.png",
-        "/Photos/Services/Works/Works_22.png",
-        "/Photos/Services/Works/Works_23.png",
-        "/Photos/Services/Works/Works_24.png",
-        "/Photos/Services/Works/Works_25.png",
-        "/Photos/Services/Works/Works_26.png"
+        {
+          "xs": "/Photos/Services/Works/XS_Works_01.webp",
+          "s": "/Photos/Services/Works/S_Works_01.webp",
+          "m": "/Photos/Services/Works/M_Works_01.webp",
+          "l": "/Photos/Services/Works/L_Works_01.webp",
+          "xl": "/Photos/Services/Works/XL_Works_01.webp",
+          "xxl": "/Photos/Services/Works/XXL_Works_01.webp"
+        },
+        {
+          "xs": "/Photos/Services/Works/XS_Works_02.webp",
+          "s": "/Photos/Services/Works/S_Works_02.webp",
+          "m": "/Photos/Services/Works/M_Works_02.webp",
+          "l": "/Photos/Services/Works/L_Works_02.webp",
+          "xl": "/Photos/Services/Works/XL_Works_02.webp",
+          "xxl": "/Photos/Services/Works/XXL_Works_02.webp"
+        },
+        {
+          "xs": "/Photos/Services/Works/XS_Works_03.webp",
+          "s": "/Photos/Services/Works/S_Works_03.webp",
+          "m": "/Photos/Services/Works/M_Works_03.webp",
+          "l": "/Photos/Services/Works/L_Works_03.webp",
+          "xl": "/Photos/Services/Works/XL_Works_03.webp",
+          "xxl": "/Photos/Services/Works/XXL_Works_03.webp"
+        },
+        {
+          "xs": "/Photos/Services/Works/XS_Works_04.webp",
+          "s": "/Photos/Services/Works/S_Works_04.webp",
+          "m": "/Photos/Services/Works/M_Works_04.webp",
+          "l": "/Photos/Services/Works/L_Works_04.webp",
+          "xl": "/Photos/Services/Works/XL_Works_04.webp",
+          "xxl": "/Photos/Services/Works/XXL_Works_04.webp"
+        },
+        {
+          "xs": "/Photos/Services/Works/XS_Works_05.webp",
+          "s": "/Photos/Services/Works/S_Works_05.webp",
+          "m": "/Photos/Services/Works/M_Works_05.webp",
+          "l": "/Photos/Services/Works/L_Works_05.webp",
+          "xl": "/Photos/Services/Works/XL_Works_05.webp",
+          "xxl": "/Photos/Services/Works/XXL_Works_05.webp"
+        },
+        {
+          "xs": "/Photos/Services/Works/XS_Works_06.webp",
+          "s": "/Photos/Services/Works/S_Works_06.webp",
+          "m": "/Photos/Services/Works/M_Works_06.webp",
+          "l": "/Photos/Services/Works/L_Works_06.webp",
+          "xl": "/Photos/Services/Works/XL_Works_06.webp",
+          "xxl": "/Photos/Services/Works/XXL_Works_06.webp"
+        },
+        {
+          "xs": "/Photos/Services/Works/XS_Works_07.webp",
+          "s": "/Photos/Services/Works/S_Works_07.webp",
+          "m": "/Photos/Services/Works/M_Works_07.webp",
+          "l": "/Photos/Services/Works/L_Works_07.webp",
+          "xl": "/Photos/Services/Works/XL_Works_07.webp",
+          "xxl": "/Photos/Services/Works/XXL_Works_07.webp"
+        },
+        {
+          "xs": "/Photos/Services/Works/XS_Works_08.webp",
+          "s": "/Photos/Services/Works/S_Works_08.webp",
+          "m": "/Photos/Services/Works/M_Works_08.webp",
+          "l": "/Photos/Services/Works/L_Works_08.webp",
+          "xl": "/Photos/Services/Works/XL_Works_08.webp",
+          "xxl": "/Photos/Services/Works/XXL_Works_08.webp"
+        },
+        {
+          "xs": "/Photos/Services/Works/XS_Works_09.webp",
+          "s": "/Photos/Services/Works/S_Works_09.webp",
+          "m": "/Photos/Services/Works/M_Works_09.webp",
+          "l": "/Photos/Services/Works/L_Works_09.webp",
+          "xl": "/Photos/Services/Works/XL_Works_09.webp",
+          "xxl": "/Photos/Services/Works/XXL_Works_09.webp"
+        },
+        {
+          "xs": "/Photos/Services/Works/XS_Works_10.webp",
+          "s": "/Photos/Services/Works/S_Works_10.webp",
+          "m": "/Photos/Services/Works/M_Works_10.webp",
+          "l": "/Photos/Services/Works/L_Works_10.webp",
+          "xl": "/Photos/Services/Works/XL_Works_10.webp",
+          "xxl": "/Photos/Services/Works/XXL_Works_10.webp"
+        },
+        {
+          "xs": "/Photos/Services/Works/XS_Works_11.webp",
+          "s": "/Photos/Services/Works/S_Works_11.webp",
+          "m": "/Photos/Services/Works/M_Works_11.webp",
+          "l": "/Photos/Services/Works/L_Works_11.webp",
+          "xl": "/Photos/Services/Works/XL_Works_11.webp",
+          "xxl": "/Photos/Services/Works/XXL_Works_11.webp"
+        },
+        {
+          "xs": "/Photos/Services/Works/XS_Works_12.webp",
+          "s": "/Photos/Services/Works/S_Works_12.webp",
+          "m": "/Photos/Services/Works/M_Works_12.webp",
+          "l": "/Photos/Services/Works/L_Works_12.webp",
+          "xl": "/Photos/Services/Works/XL_Works_12.webp",
+          "xxl": "/Photos/Services/Works/XXL_Works_12.webp"
+        },
+        {
+          "xs": "/Photos/Services/Works/XS_Works_13.webp",
+          "s": "/Photos/Services/Works/S_Works_13.webp",
+          "m": "/Photos/Services/Works/M_Works_13.webp",
+          "l": "/Photos/Services/Works/L_Works_13.webp",
+          "xl": "/Photos/Services/Works/XL_Works_13.webp",
+          "xxl": "/Photos/Services/Works/XXL_Works_13.webp"
+        },
+        {
+          "xs": "/Photos/Services/Works/XS_Works_14.webp",
+          "s": "/Photos/Services/Works/S_Works_14.webp",
+          "m": "/Photos/Services/Works/M_Works_14.webp",
+          "l": "/Photos/Services/Works/L_Works_14.webp",
+          "xl": "/Photos/Services/Works/XL_Works_14.webp",
+          "xxl": "/Photos/Services/Works/XXL_Works_14.webp"
+        },
+        {
+          "xs": "/Photos/Services/Works/XS_Works_15.webp",
+          "s": "/Photos/Services/Works/S_Works_15.webp",
+          "m": "/Photos/Services/Works/M_Works_15.webp",
+          "l": "/Photos/Services/Works/L_Works_15.webp",
+          "xl": "/Photos/Services/Works/XL_Works_15.webp",
+          "xxl": "/Photos/Services/Works/XXL_Works_15.webp"
+        },
+        {
+          "xs": "/Photos/Services/Works/XS_Works_16.webp",
+          "s": "/Photos/Services/Works/S_Works_16.webp",
+          "m": "/Photos/Services/Works/M_Works_16.webp",
+          "l": "/Photos/Services/Works/L_Works_16.webp",
+          "xl": "/Photos/Services/Works/XL_Works_16.webp",
+          "xxl": "/Photos/Services/Works/XXL_Works_16.webp"
+        },
+        {
+          "xs": "/Photos/Services/Works/XS_Works_17.webp",
+          "s": "/Photos/Services/Works/S_Works_17.webp",
+          "m": "/Photos/Services/Works/M_Works_17.webp",
+          "l": "/Photos/Services/Works/L_Works_17.webp",
+          "xl": "/Photos/Services/Works/XL_Works_17.webp",
+          "xxl": "/Photos/Services/Works/XXL_Works_17.webp"
+        },
+        {
+          "xs": "/Photos/Services/Works/XS_Works_18.webp",
+          "s": "/Photos/Services/Works/S_Works_18.webp",
+          "m": "/Photos/Services/Works/M_Works_18.webp",
+          "l": "/Photos/Services/Works/L_Works_18.webp",
+          "xl": "/Photos/Services/Works/XL_Works_18.webp",
+          "xxl": "/Photos/Services/Works/XXL_Works_18.webp"
+        },
+        {
+          "xs": "/Photos/Services/Works/XS_Works_19.webp",
+          "s": "/Photos/Services/Works/S_Works_19.webp",
+          "m": "/Photos/Services/Works/M_Works_19.webp",
+          "l": "/Photos/Services/Works/L_Works_19.webp",
+          "xl": "/Photos/Services/Works/XL_Works_19.webp",
+          "xxl": "/Photos/Services/Works/XXL_Works_19.webp"
+        },
+        {
+          "xs": "/Photos/Services/Works/XS_Works_20.webp",
+          "s": "/Photos/Services/Works/S_Works_20.webp",
+          "m": "/Photos/Services/Works/M_Works_20.webp",
+          "l": "/Photos/Services/Works/L_Works_20.webp",
+          "xl": "/Photos/Services/Works/XL_Works_20.webp",
+          "xxl": "/Photos/Services/Works/XXL_Works_20.webp"
+        },
+        {
+          "xs": "/Photos/Services/Works/XS_Works_21.webp",
+          "s": "/Photos/Services/Works/S_Works_21.webp",
+          "m": "/Photos/Services/Works/M_Works_21.webp",
+          "l": "/Photos/Services/Works/L_Works_21.webp",
+          "xl": "/Photos/Services/Works/XL_Works_21.webp",
+          "xxl": "/Photos/Services/Works/XXL_Works_21.webp"
+        },
+        {
+          "xs": "/Photos/Services/Works/XS_Works_22.webp",
+          "s": "/Photos/Services/Works/S_Works_22.webp",
+          "m": "/Photos/Services/Works/M_Works_22.webp",
+          "l": "/Photos/Services/Works/L_Works_22.webp",
+          "xl": "/Photos/Services/Works/XL_Works_22.webp",
+          "xxl": "/Photos/Services/Works/XXL_Works_22.webp"
+        },
+        {
+          "xs": "/Photos/Services/Works/XS_Works_23.webp",
+          "s": "/Photos/Services/Works/S_Works_23.webp",
+          "m": "/Photos/Services/Works/M_Works_23.webp",
+          "l": "/Photos/Services/Works/L_Works_23.webp",
+          "xl": "/Photos/Services/Works/XL_Works_23.webp",
+          "xxl": "/Photos/Services/Works/XXL_Works_23.webp"
+        },
+        {
+          "xs": "/Photos/Services/Works/XS_Works_24.webp",
+          "s": "/Photos/Services/Works/S_Works_24.webp",
+          "m": "/Photos/Services/Works/M_Works_24.webp",
+          "l": "/Photos/Services/Works/L_Works_24.webp",
+          "xl": "/Photos/Services/Works/XL_Works_24.webp",
+          "xxl": "/Photos/Services/Works/XXL_Works_24.webp"
+        },
+        {
+          "xs": "/Photos/Services/Works/XS_Works_25.webp",
+          "s": "/Photos/Services/Works/S_Works_25.webp",
+          "m": "/Photos/Services/Works/M_Works_25.webp",
+          "l": "/Photos/Services/Works/L_Works_25.webp",
+          "xl": "/Photos/Services/Works/XL_Works_25.webp",
+          "xxl": "/Photos/Services/Works/XXL_Works_25.webp"
+        },
+        {
+          "xs": "/Photos/Services/Works/XS_Works_26.webp",
+          "s": "/Photos/Services/Works/S_Works_26.webp",
+          "m": "/Photos/Services/Works/M_Works_26.webp",
+          "l": "/Photos/Services/Works/L_Works_26.webp",
+          "xl": "/Photos/Services/Works/XL_Works_26.webp",
+          "xxl": "/Photos/Services/Works/XXL_Works_26.webp"
+        }
       ]
     }
   ],
@@ -190,7 +988,7 @@
       "subTitle": "-",
       "description": "-",
       "note": [],
-      "Heads": ["Наименование и толщина листа", "Цена за кв.м", "Цвет"],
+      "heads": ["Наименование и толщина листа", "Цена за кв.м", "Цвет"],
       "list": [
         {
           "id": 1,
@@ -411,7 +1209,7 @@
       "note": [
         "Изготовление кромки стекла с углом 45°, без остаточной кромки под склейку + 60% к базовой стоимости."
       ],
-      "Heads": ["Толщина стекла (mm)", "Стоимость"],
+      "heads": ["Толщина стекла (mm)", "Стоимость"],
       "list": [
         {
           "id": 1,
@@ -450,7 +1248,7 @@
       "subTitle": "Прямолинейная",
       "description": "(за погонный метр)",
       "note": [],
-      "Heads": ["Толщина стекла (mm)", "Стоимость"],
+      "heads": ["Толщина стекла (mm)", "Стоимость"],
       "list": [
         {
           "id": 1,
@@ -493,7 +1291,7 @@
         "Резка давальческого сырья осуществляется по договорным расценкам, но не меньше стоимости шлифовки кромки стекла соответствующей толщины.",
         "Комбинированная обработка кромки на одном изделии оплачивается по цене полировки."
       ],
-      "Heads": ["Толщина стекла (mm)", "Стоимость"],
+      "heads": ["Толщина стекла (mm)", "Стоимость"],
       "list": [
         {
           "id": 1,
@@ -537,7 +1335,7 @@
       "subTitle": "-",
       "description": "(за 1 отверстие)",
       "note": ["Сверление отверстий в триплексе + 100% к указанной цене."],
-      "Heads": ["Толщина стекла", "До 6 мм", "8-12 мм"],
+      "heads": ["Толщина стекла", "До 6 мм", "8-12 мм"],
       "list": [
         {
           "id": 1,
@@ -570,7 +1368,7 @@
       "subTitle": "-",
       "description": "(шлифованные)",
       "note": [],
-      "Heads": ["Тип", "Стоимость"],
+      "heads": ["Тип", "Стоимость"],
       "list": [
         {
           "id": 1,
@@ -608,7 +1406,7 @@
         "Резка стекла(зеркала) по лекалу +20% от стоимости.",
         "Стоимость ЗЕРКАЛЬНОГО ПАНО рассчитывается на основе базовой стоимости всех необходимых операций, приведённых в данном разделе + калибровка готового изделия. Стоимость калибровки зависит от сложности элементов пано."
       ],
-      "Heads": ["Толщина стекла (mm)", "Стоимость"],
+      "heads": ["Толщина стекла (mm)", "Стоимость"],
       "list": [
         {
           "id": 1,
@@ -652,7 +1450,7 @@
         "Закалка матированного и осветлённого стекла +30 руб/кв.м. к стоимости закалки каждого подвида. Закалка стекла «BLACKPEARL» +30% к стоимости закалки",
         "Закалка давальческого сырья осуществляется без гарантии."
       ],
-      "Heads": ["Толщина стекла (mm)", "Стоимость"],
+      "heads": ["Толщина стекла (mm)", "Стоимость"],
       "list": [
         {
           "id": 1,
@@ -691,7 +1489,7 @@
       "subTitle": "-",
       "description": "(за 1 кв.м. поверхности)",
       "note": [],
-      "Heads": ["Тип обработки", "Стоимость"],
+      "heads": ["Тип обработки", "Стоимость"],
       "list": [
         {
           "id": 1,
@@ -728,7 +1526,7 @@
         "Тонированное стекло +10 %",
         "Сверление отверстий в триплексе + 100% к указанной цене."
       ],
-      "Heads": ["Диаметр элемента", "элементаСтоимость"],
+      "heads": ["Диаметр элемента", "элементаСтоимость"],
       "list": [
         {
           "id": 1,
@@ -757,7 +1555,7 @@
       "subTitle": "-",
       "description": "(включая материал)",
       "note": [],
-      "Heads": ["Тип обработки", "Стоимость"],
+      "heads": ["Тип обработки", "Стоимость"],
       "list": [
         {
           "id": 1,
@@ -785,7 +1583,7 @@
         "Доставка по Одинцовскому району 500 рублей.",
         "Стоимость доставки не включает разгрузку."
       ],
-      "Heads": ["Тип обработки", "Стоимость"],
+      "heads": ["Тип обработки", "Стоимость"],
       "list": [
         {
           "id": 1,
