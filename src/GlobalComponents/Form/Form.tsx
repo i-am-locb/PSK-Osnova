@@ -29,7 +29,7 @@ export const FeedbackForm = () => {
           controlId="formBasicEmail"
           className={"mb-3" + " " + styles.feedback__userEmail}
         >
-          <Form.Label>Ваш e-mail</Form.Label>
+          <Form.Label>Ваш E-mail</Form.Label>
           <Form.Control type="email" placeholder="" />
         </Form.Group>
 
